@@ -1,28 +1,111 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bubble Chart with D3.js</title>
-    <style>
-        .bubble {
-            stroke: #fff;
-            stroke-width: 1px;
-        }.tooltip {
-            position: absolute;
-            text-align: center;
-            padding: 8px;
-            background: rgba(0, 0, 0, 0.7);
-            color: white;
-            border-radius: 4px;
-            pointer-events: none;
-            font-size: 12px;
-        }
-    </style>
+<title>Datos de Steam</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+img{
+    width:600px;
+    height: 375px;
+    max-width:600px;
+}
+</style>
 </head>
 <body>
-    <div id="chart"></div>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="/Bubbles/bubbles.js"></script>
+
+<!-- Sidebar (hidden by default) -->
+<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()"
+  class="w3-bar-item w3-button">Close Menu</a>
+  <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Graficos</a>
+  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Sobre el equipo</a>
+</nav>
+
+<!-- Top menu -->
+<div class="w3-top">
+  <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+    <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
+    <div class="w3-right w3-padding-16">Datos de Juegos</div>
+    <div class="w3-center w3-padding-16">Actividad 1</div>
+  </div>
+</div>
+  
+<!-- !PAGE CONTENT! -->
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-third">
+      <img src="/figures/Sunburst.jpg" alt="Sunburst" style="width:100%">
+      <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+      <p>Grafico con información visual sobre las mayores publishers en formato circular</p>
+    </div>
+    <div class="w3-third">
+        <img src="/figures/Treemap.JPG" alt="Treemap" style="width:100%">
+        <h3><a href="treemap_2/">TreeMap</a></h3>
+        <p>Grafico con información visual sobre las mayores publishers en formato de treemap</p>
+      </div>
+      <div class="w3-third">
+        <img src="/figures/Piechart.png" alt="PieChart" style="width:100%">
+        <h3><a href="pie-chart_2/index.html">Pie Chart</a></h3>
+        <p>Grafico con información visual sobre los generos mas populares</p>
+      </div>
+    
+  </div>
+  
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-third">
+    <img src="/figures/ChordDiagram.png" alt="Chord Diagram" style="width:100%">
+        <h3><a href="chord-diagram/">Chord Diagram</a></h3>
+        <p>Grafico con información visual sobre la relacion entre los generos más populares</p>
+    </div>
+    <div class="w3-third">
+        <img src="/figures/Sunburst.jpg" alt="Sunbur" style="width:100%">
+        <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+        <p>Grafico con información visual sobre las mayores publishers</p>
+      </div>>
+      <div class="w3-third">
+        <img src="/figures/Sunburst.jpg" alt="Sunbur" style="width:100%">
+        <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+        <p>Grafico con información visual sobre las mayores publishers</p>
+      </div>
+    
+  </div>
+
+  
+  <hr id="about">
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32 w3-center">  
+    <h3>Sobre el Equipo</h3><br>
+    <div class="w3-padding-32">
+      <h4><b>Estudiantes de Unir de la asignatura Visualización de Datos</b></h4>
+      <h6><i>Andoni Aranguren, Alejandro Adrian, Jesús Rugarcía</i></h6>
+      <p>Elaborado con D3js y una plantilla abierta de W3.</p>
+    </div>
+  </div>
+  <hr>
+  
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+
 </body>
 </html>

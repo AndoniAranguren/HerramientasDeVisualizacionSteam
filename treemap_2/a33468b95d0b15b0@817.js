@@ -1,15 +1,5 @@
 function _1(md){return(
-md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Color legend</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
-
-# Color legend
-
-A simple legend for a [color scale](/@d3/color-schemes). Supports [continuous](/@d3/continuous-scales), [sequential](/@d3/sequential-scales), [diverging](/@d3/diverging-scales), [quantize, quantile, threshold](/@d3/quantile-quantize-and-threshold-scales) and [ordinal](/@d3/d3-scaleordinal) scales. To use:
-
-~~~js
-import {Legend, Swatches} from "@d3/color-legend"
-~~~
-
-Then call the legend function as shown below. (For ordinal scales, also consider the swatches function.)`
+md
 )}
 
 function _2(Legend,d3){return(

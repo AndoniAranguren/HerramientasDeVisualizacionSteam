@@ -1,9 +1,5 @@
 function _1(d3,data,md){return(
-md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Pie chart</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
-
-# Pie chart
-
-This chart shows the estimated population by age in the United States as of 2015. The total estimated population is ${d3.sum(data, d => d.value).toLocaleString("en-US")}. Compare to a [donut chart](/@d3/donut-chart/2). Data: [U.S. Census](https://www.census.gov/data.html)`
+""
 )}
 
 function _chart(d3,data)
@@ -40,7 +36,7 @@ function _chart(d3,data)
       .attr("width", width)
       .attr("height", height)
       .attr("viewBox", [-width / 2, -height / 2, width, height])
-      .attr("style", "max-width: 100%; height: auto; font: 10px sans-serif;");
+      .attr("style", "max-width: 100%; height: auto; font: 10px sans-serif;text-align: center");
 
   // Add a sector path for each value.
   svg.append("g")
@@ -69,6 +65,7 @@ function _chart(d3,data)
           .attr("x", 0)
           .attr("y", "0.7em")
           .attr("fill-opacity", 0.7)
+          .attr("text-align","center")
           .text(d => d.data.value.toLocaleString("en-US")));
 
   return svg.node();
