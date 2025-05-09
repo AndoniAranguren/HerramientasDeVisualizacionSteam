@@ -1,0 +1,278 @@
+text,value
+['czech',22
+'danish',3330
+'dutch',4981
+'english',1093
+'finnish',3220
+'french',18687
+'german',18752
+'hungarian',3347
+'italian',13401
+'japanese',12571
+'korean',8961
+'norwegian',3254
+'polish',7866
+'portuguese - portugal',6301
+'portuguese - brazil',8970
+'romanian',2974
+'russian',13189
+'simplified chinese',13717
+'spanish - spain',16039
+'swedish',3467
+'thai',3365
+'traditional chinese',7275
+'turkish',4830
+'bulgarian',2748
+'ukrainian',3280
+'greek',2937
+'spanish - latin america',4289
+'vietnamese'],690
+['english',34854
+'arabic',3308
+'ukrainian'],830
+['bulgarian',1
+'czech',3910
+'spanish - latin america'],1341
+'thai'],191
+'simplified chinese'],4784
+'arabic'],214
+['danish',9
+'traditional chinese'],3384
+[],4158
+'turkish'],1717
+'catalan'],85
+'japanese'],3923
+['english'],42940
+'korean'],2293
+'romanian'],45
+'spanish - spain'],2353
+'polish'],730
+'portuguese - brazil'],1893
+'czech'],257
+'swedish'],403
+'vietnamese',2205
+'latvian',1037
+'lithuanian',1057
+'slovak'],64
+'serbian',1060
+'catalan',1075
+'lithuanian'],14
+'german'],1497
+['simplified chinese',1145
+'russian'],5223
+'portuguese - portugal'],634
+'belarusian',1050
+'kazakh',1020
+'georgian'],4
+'hindi',1090
+'malay'],39
+'estonian',684
+'macedonian',1018
+'indonesian',1444
+['japanese',629
+'croatian',1058
+'georgian',1029
+'greek'],29
+'indonesian'],161
+'english'],1205
+'italian'],414
+'basque',1038
+'dutch'],287
+'traditional chinese  '],1
+'slovak',1063
+'hindi'],76
+['simplified chinese'],1873
+['french',76
+'hungarian'],226
+'french'],1054
+'croatian'],16
+['italian',13
+'filipino',1049
+'slovenian'],16
+'#lang_slovakian',2
+['german',54
+'bulgarian'],25
+'norwegian'],44
+'danish'],38
+'afrikaans'],8
+'hebrew'],23
+['traditional chinese',203
+'persian'],21
+['russian',181
+'finnish'],47
+'galician',1024
+'basque'],24
+'estonian'],369
+'latvian'],22
+'azerbaijani',1031
+'albanian',1028
+'amharic',1006
+'armenian',1014
+'assamese',1006
+'afrikaans',1029
+'bangla',1046
+'bosnian',1024
+'valencian',994
+'welsh',1018
+'wolof',994
+'gujarati',1020
+'dari',997
+'zulu',724
+'hebrew',1061
+'igbo',892
+'irish',1022
+'icelandic',1019
+'yoruba',1009
+'kannada',1012
+'quechua',1003
+'kinyarwanda',982
+"""k'iche'""",995
+'konkani',1004
+'xhosa',1005
+'khmer',880
+'kyrgyz',1012
+'luxembourgish',1015
+'malay',1069
+'malayalam',1012
+'maltese',1011
+'maori',1009
+'marathi',1009
+'mongolian',1020
+'nepali',1013
+'odia',1008
+'punjabi  ',2024
+'persian',1031
+'sotho',1007
+'sinhala',1010
+'sindhi',1004
+'slovenian',1028
+'sorani',1000
+'swahili',1014
+'tajik',1012
+'tamil',1015
+'tatar',1010
+'telugu',1011
+'tigrinya',998
+'tswana',995
+'turkmen',1010
+'uzbek',1012
+'uyghur',1009
+'urdu',1022
+'hausa',1012
+'cherokee',995
+'scots',959
+'welsh'],11
+['dutch',8
+['spanish - spain',43
+'irish'],4
+'khmer'],125
+'zulu'],290
+['korean',115
+['japanese'],622
+['russian'],112
+'xhosa'],4
+['portuguese - brazil'],49
+'icelandic'],21
+'scots'],49
+['portuguese - brazil',53
+'serbian'],16
+['traditional chinese'],130
+['romanian'],2
+['korean'],164
+'galician'],14
+['english[b][,4
+b]',10
+'italian \r\n\r\n[b][,1
+b] '],2
+'belarusian'],27
+['polish'],12
+'azerbaijani'],6
+'german,2
+',20
+['turkish',16
+['french'],69
+['arabic'],7
+'urdu'],8
+'uzbek'],11
+['turkish'],12
+'russian\r\n[b][,1
+b]'],2
+'igbo'],118
+['spanish - latin america',29
+['vietnamese'],4
+'filipino'],8
+['polish',9
+['czech'],3
+'swahili'],2
+['english dutch  english'],1
+['german'],55
+'valencian'],1
+['thai',6
+'hungarian,1
+polish',1
+['english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech'],1
+'german[b][,2
+'spanish - spain\r\n[b][,1
+['thai'],9
+['hebrew'],2
+['english  ',3
+'telugu'],1
+'kinyarwanda'],29
+'\r\nfrench',1
+'\r\ngerman'],1
+['ukrainian',6
+['spanish - spain'],37
+['swedish'],1
+'luxembourgish'],2
+'cherokee'],1
+['finnish'],6
+['hungarian',1
+'marathi'],1
+'japanese  '],1
+['russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech'],1
+['spanish - latin america'],16
+['greek'],2
+'tigrinya'],1
+'uyghur'],2
+['italian'],16
+['arabic',3
+'punjabi  '],2
+'french[b][,1
+'italian[b][,1
+'spanish - spain[b][,1
+'korean[b][,1
+'japanese \r\n\r\n[b][,1
+'maori'],1
+['portuguese - portugal',1
+['slovak'],2
+'bangla'],1
+'yoruba'],2
+['norwegian'],3
+'mongolian'],1
+['dutch'],1
+['portuguese - portugal'],3
+['bulgarian'],1
+'kazakh'],3
+['indonesian'],1
+['danish'],1
+['vietnamese',1
+['english&amp,3
+amp,32
+lt,48
+strong&amp,42
+gt,48
+&amp,33
+'french&amp,3
+'italian&amp,3
+'german&amp,3
+'spanish - spain&amp,3
+'korean&amp,3
+'japanese &amp,3
+br,6
+'],3
+'bosnian'],2
+['romanian',1
+'albanian'],1
+['croatian',1
+'tamil'],1
+'macedonian'],1
