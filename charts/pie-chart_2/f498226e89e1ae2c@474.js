@@ -80,7 +80,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["population-by-age.csv", {url: new URL("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/data/genres.csv", import.meta.url), mimeType: "text/csv", toString}]
+    ["population-by-age.csv", {url: new URL("./../../data/genres.csv", import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["d3","data","md"], _1);

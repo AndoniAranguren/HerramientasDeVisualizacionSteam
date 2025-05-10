@@ -1,5 +1,3 @@
-[![HTML Preview](https://img.shields.io/badge/HTML-Preview-brightgreen)](https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/index.html)
-
 # Descripción del proyecto
 
 En la actualidad existen múltiples iniciativas de datos abiertos y plataformas que facilitan el uso de datos públicos por parte de los profesionales y ciudadanos en general, con el objetivo de enriquecer las noticias y contrastar las cifras ofrecidas por las diversas fuentes. epData es una de dichas plataformas: https://www.epdata.es/

@@ -136,7 +136,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["flare-2.json", {url: new URL("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/data/hierarchy_publisher_developer_game_count.json", import.meta.url), mimeType: "application/json", toString}]
+    ["flare-2.json", {url: new URL("./../../data/hierarchy_publisher_developer_game_count.json", import.meta.url), mimeType: "application/json", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);
