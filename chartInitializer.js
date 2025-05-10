@@ -40,6 +40,14 @@ function delay(ms) {
 * @param {string} targetSelector - El selector CSS del contenedor objetivo.
 */
 async function tryInitializeChart(modulePath, targetSelector, fallbackImage) {
+    const target = document.querySelector(targetSelector);
+    const url = "https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/refs/heads/main/figures/"+ fallbackImage;
+    // Add a fallback image
+    const fallbackImageElem = document.createElement("img");
+    fallbackImageElem.src = url;
+    fallbackImageElem.id = "fallback-image";
+    target.appendChild(fallbackImageElem);
+
     let success = false;
     let retries = 0;
     while (!success && retries < 3) {
@@ -54,13 +62,12 @@ async function tryInitializeChart(modulePath, targetSelector, fallbackImage) {
     }
     if (!success) {
         console.error(`No se pudo inicializar el gráfico después de ${retries} reintentos.`);
-
-        const target = document.querySelector(targetSelector);
-        const url = "https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/refs/heads/main/figures/"+ fallbackImage;
-        // Add a fallback image
-        const fallbackImageElem = document.createElement("img");
-        fallbackImageElem.src = url;
-        target.appendChild(fallbackImageElem);
+    }else{
+        // Remove the fallback image if the chart loads successfully
+        const fallbackImageElem = document.getElementById("fallback-image");
+        if (fallbackImageElem) {
+            fallbackImageElem.remove();
+        }
     }
 }
 
