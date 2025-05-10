@@ -41,7 +41,8 @@ function delay(ms) {
 */
 async function tryInitializeChart(modulePath, targetSelector) {
     let success = false;
-    while (!success) {
+    let attempts = 0;
+    while (!success && attempts < 3) {
         try {
             await initializeChart(modulePath, targetSelector);
             success = true; // If no error, mark as successful
@@ -49,6 +50,9 @@ async function tryInitializeChart(modulePath, targetSelector) {
             console.error(`Reintentando para ${targetSelector}:`, error);
             await delay(500); // Wait 500ms before retrying
         }
+    }
+    if (!success) {
+        console.error(`No se ha podido cargar el gráfico después de ${attempts} intentos.`);
     }
 }
 
