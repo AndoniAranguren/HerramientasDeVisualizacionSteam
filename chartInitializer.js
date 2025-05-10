@@ -1,32 +1,32 @@
-// Import Runtime and Inspector once
-import {Runtime, Inspector} from "./zoomable-sunburst/runtime.js";
+// Con cargar un módulo cualquiera de D3.js ya podemos usarlo para el resto de gráficos
+import {Runtime, Inspector} from "./charts/zoomable-sunburst/runtime.js";
 
 /**
-* Initializes a chart by dynamically importing the module and rendering it into the target container.
-* @param {string} modulePath - The path to the module file.
-* @param {string} targetSelector - The CSS selector for the target container.
+* Inicializa un gráfico utilizando el módulo especificado.
+* @param {string} modulePath - El path de la carpeta del módulo.
+* @param {string} targetSelector - El selector CSS del contenedor objetivo.
 */
 async function initializeChart(modulePath, targetSelector) {
     try {
         const define = (await import(modulePath + "/index.js")).default;
         if (!define || typeof define !== "function") {
-            throw new Error(`Invalid or missing define function in module: ${modulePath}`);
+            throw new Error(`Función no reconocida en el módulo: ${modulePath}`);
         }
         const target = document.querySelector(targetSelector);
         if (!target) {
-            throw new Error(`Target container not found: ${targetSelector}`);
+            throw new Error(`No se ha encontrado la carpeta del gráfico: ${targetSelector}`);
         }
         const runtime = new Runtime();
         runtime.module(define, Inspector.into(target));
     } catch (error) {
-        console.error("Error initializing chart:", error);
+        console.error("Error al inicializar el gráfico:", error);
         throw error; // Re-throw the error for retry logic
     }
 }
 
 /**
-* Delays execution for a specified number of milliseconds.
-* @param {number} ms - The delay in milliseconds.
+* Espera un tiempo específico antes de continuar.
+* @param {number} ms - El tiempo en milisegundos a esperar.
 * @returns {Promise < void >}
 */
 function delay(ms) {
@@ -34,9 +34,10 @@ function delay(ms) {
 }
 
 /**
-* Tries to initialize a chart until it succeeds.
-* @param {string} modulePath - The path to the module file.
-* @param {string} targetSelector - The CSS selector for the target container.
+* Intenta inicializar un gráfico con reintentos. Esto es nos has sido necesario dado que había veces que un error
+ * hacía que no se cargase el gráfico por lo que preferimos reintentarlo. No suele necesitar más de 1 o 2 reintentos.
+* @param {string} modulePath - El path de la carpeta del módulo.
+* @param {string} targetSelector - El selector CSS del contenedor objetivo.
 */
 async function tryInitializeChart(modulePath, targetSelector) {
     let success = false;
@@ -45,10 +46,10 @@ async function tryInitializeChart(modulePath, targetSelector) {
             await initializeChart(modulePath, targetSelector);
             success = true; // If no error, mark as successful
         } catch (error) {
-            console.error(`Retrying chart initialization for ${targetSelector}:`, error);
+            console.error(`Reintentando para ${targetSelector}:`, error);
             await delay(500); // Wait 500ms before retrying
         }
     }
 }
 
-export { initializeChart, tryInitializeChart };
+export { tryInitializeChart };

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
 ==============================================================================
-Página "Datos de Steam" - index.html
+Página "Estudio y visualización de datos de Steam" - index.html
 Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
 ==============================================================================
 -->
@@ -15,30 +15,21 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
   <!-- Estilos externos -->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+  <!-- Icono de la página -->
   <link rel="icon" href="./figures/ChordDiagramMini.png" type="image/png">
+  <!-- Agregamos los estilos propios -->
   <link rel="stylesheet" href="./nuestrostyle.css">
 </head>
 <body>
   <!-- ===========================================================================
        B A R R A   L A T E R A L   (Mobile/Tablet)
        =========================================================================== -->
-  <nav
-    id="mySidebar"
-    class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left"
-    style="display: none; z-index: 2; width: 40%; min-width: 300px;"
-  >
-    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">
-      Cerrar Menú
-    </a>
-    <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">
-      Gráficos
-    </a>
-    <a href="#datos" onclick="w3_close()" class="w3-bar-item w3-button">
-      Sobre los Datos
-    </a>
-    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">
-      Sobre el Equipo
-    </a>
+  <nav id="mySidebar" class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left"
+    style="display: none; z-index: 2; width: 40%; min-width: 300px;">
+    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button"> Cerrar Menú </a>
+    <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button"> Gráficos </a>
+    <a href="#datos" onclick="w3_close()" class="w3-bar-item w3-button"> Sobre los Datos </a>
+    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button"> Sobre el Equipo </a>
   </nav>
 
   <!-- ===========================================================================
@@ -47,9 +38,8 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
   <div class="w3-top">
     <div class="w3-white w3-xlarge" style="max-width: 1200px; margin: auto;">
       <!-- Botón para abrir barra lateral -->
-      <button class="w3-button w3-padding-16 w3-left" onclick="w3_open()">
-        ☰
-      </button>
+      <button class="w3-button w3-padding-16 w3-left" onclick="w3_open()"> ☰ </button>
+      <!-- Información adicional -->
       <div class="w3-right w3-padding-16">Actividad 1</div>
       <div class="w3-center w3-padding-16">Estudio y visualización de datos de Steam</div>
     </div>
@@ -63,20 +53,17 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
          Sección de Gráficos - Fila 1
          --------------------------------------------------------------------------- -->
     <section id="food" class="w3-row-padding w3-padding-16 w3-center">
-      <article class="w3-third">
-        <h3><a href="zoomable-sunburst/"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
+      <!-- zoomable sunburst -->
+      <article class="w3-half">
+        <h3><a href="charts/zoomable-sunburst/"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Publicadoras principales en formato circular.</p>
         <div id = "zoomable-sunburst-chart" style="margin-bottom:100px;"></div>
       </article>
-      <article class="w3-third">
-        <h3><a href="treemap_2/"><span class="clickable-emoji">👉</span>TreeMap</a></h3>
+      <!-- treemap_2 -->
+      <article class="w3-half">
+        <h3><a href="charts/treemap_2/"><span class="clickable-emoji">👉</span>TreeMap</a></h3>
         <p>Publicadoras principales en formato treemap.</p>
         <div id = "treemap-chart" style="margin-bottom:100px;"></div>
-      </article>
-      <article class="w3-third">
-        <h3><a href="pie-chart_2/index.html"><span class="clickable-emoji">👉</span>Pie Chart</a></h3>
-        <p>Géneros más populares de juegos.</p>
-        <div id = "piechart-chart" style="margin-bottom:100px;"></div>
       </article>
     </section>
 
@@ -84,20 +71,27 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
          Sección de Gráficos - Fila 2
          --------------------------------------------------------------------------- -->
     <section class="w3-row-padding w3-padding-16 w3-center">
-      <article class="w3-third">
-        <h3><a href="chord-diagram/"><span class="clickable-emoji">👉</span>Chord Diagram</a></h3>
+      <!-- Piechart -->
+      <article class="w3-half">
+        <h3><a href="charts/pie-chart_2/index.html"><span class="clickable-emoji">👉</span>Pie Chart</a></h3>
+        <p>Géneros más populares de juegos.</p>
+        <div id = "piechart-chart" style="margin-bottom:100px;"></div>
+      </article>
+      <!-- Chord diagram -->
+      <article class="w3-half">
+        <h3><a href="charts/chord-diagram/"><span class="clickable-emoji">👉</span>Chord Diagram</a></h3>
         <p>Relaciones entre géneros de juegos.</p>
         <div id = "chord-diagram-chart" style="margin-bottom:100px;"></div>
       </article>
+    </section>
+
+    <!-- ---------------------------------------------------------------------------
+         Sección de Gráficos - Fila 2
+         --------------------------------------------------------------------------- -->
+    <section class="w3-row-padding w3-padding-16 w3-center">
       <!-- Placeholder adicional -->
-      <article class="w3-third">
-        <h3><a href="zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
-        <p>Publicadoras principales en formato circular.</p>
-        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
-      </article>
-      <!-- Otro placeholder -->
-      <article class="w3-third">
-        <h3><a href="zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
+      <article class="w3-half">
+        <h3><a href="charts/zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Publicadoras principales en formato circular.</p>
         <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
       </article>
@@ -132,9 +126,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
         <p>Implementación con D3.js y plantilla W3.CSS.</p>
       </div>
     </section>
-
     <hr>
-  </section>
 
   <!-- ===========================================================================
        Funciones de interacción: abrir/cerrar barra lateral
@@ -156,14 +148,17 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
       document.getElementById("mySidebar").style.display = "none";
     }
     </script>
+    <!-- ===========================================================================
+       Carga de gráficos D3.js
+       =========================================================================== -->
     <script type="module">
     import { tryInitializeChart } from './chartInitializer.js';
 
-    // Retry initializing all charts
-    tryInitializeChart("./zoomable-sunburst", "#zoomable-sunburst-chart");
-    tryInitializeChart("./treemap_2", "#treemap-chart");
-    tryInitializeChart("./pie-chart_2", "#piechart-chart");
-    tryInitializeChart("./chord-diagram", "#chord-diagram-chart");
+    // Inicializa los gráficos de cada sección
+    tryInitializeChart("./charts/zoomable-sunburst", "#zoomable-sunburst-chart");
+    tryInitializeChart("./charts/treemap_2", "#treemap-chart");
+    tryInitializeChart("./charts/pie-chart_2", "#piechart-chart");
+    tryInitializeChart("./charts/chord-diagram", "#chord-diagram-chart");
     </script>
 </body>
 </html>

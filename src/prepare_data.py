@@ -57,7 +57,7 @@ def get_hierarchy_publisher_developer_game_count(data, top_how_many = 10):
                 "children": publisher_json_list}
 
     # Save the JSON data to a file
-    with open("./../zoomable-sunburst/files/hierarchy_publisher_developer_game_count.json", "w", encoding="utf-8") as f:
+    with open("../charts/zoomable-sunburst/files/hierarchy_publisher_developer_game_count.json", "w", encoding="utf-8") as f:
         f.write(str(data_json).replace("'", '"'))
 
     return data_json
