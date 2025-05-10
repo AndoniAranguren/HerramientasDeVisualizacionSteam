@@ -55,13 +55,13 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     <section id="food" class="w3-row-padding w3-padding-16 w3-center">
       <!-- zoomable sunburst -->
       <article class="w3-half">
-        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/zoomable-sunburst/"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
+        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Las 10 publicadoras principales en formato tarta e interactivo (Prueba a hacer clic).</p>
         <div id = "zoomable-sunburst-chart" style="margin-bottom:100px;"></div>
       </article>
       <!-- treemap_2 -->
       <article class="w3-half">
-        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/treemap_2/"><span class="clickable-emoji">👉</span>TreeMap</a></h3>
+        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/treemap_2/index.html"><span class="clickable-emoji">👉</span>TreeMap</a></h3>
         <p>Publicadoras principales en formato treemap.</p>
         <div id = "treemap-chart" style="margin-bottom:100px;"></div>
       </article>
@@ -79,7 +79,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
       </article>
       <!-- Chord diagram -->
       <article class="w3-half">
-        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/chord-diagram/"><span class="clickable-emoji">👉</span>Chord Diagram</a></h3>
+        <h3><a href="https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/charts/chord-diagram/index.html"><span class="clickable-emoji">👉</span>Chord Diagram</a></h3>
         <p>Relaciones entre géneros de juegos.</p>
         <div id = "chord-diagram-chart" style="margin-bottom:100px;"></div>
       </article>
@@ -152,14 +152,14 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
        Carga de gráficos D3.js
        =========================================================================== -->
     <script type="module">
-    import { tryInitializeChart } from 'https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/chartInitializer.js';
+    import { tryInitializeChart } from './chartInitializer.js';
 
     // Inicializa los gráficos de cada sección
-    tryInitializeChart("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/charts/zoomable-sunburst", "#zoomable-sunburst-chart");
-    tryInitializeChart("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/charts/treemap_2", "#treemap-chart");
-    tryInitializeChart("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/charts/pie-chart_2", "#piechart-chart");
-    tryInitializeChart("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/charts/chord-diagram", "#chord-diagram-chart");
-    tryInitializeChart("https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/charts/word-cloud", "#wordcloud-chart");
+    tryInitializeChart("./main/charts/zoomable-sunburst", "#zoomable-sunburst-chart");
+    tryInitializeChart("./main/charts/treemap_2", "#treemap-chart");
+    tryInitializeChart("./main/charts/pie-chart_2", "#piechart-chart");
+    tryInitializeChart("./main/charts/chord-diagram", "#chord-diagram-chart");
+    tryInitializeChart("./main/charts/word-cloud", "#wordcloud-chart");
     </script>
 </body>
 </html>
