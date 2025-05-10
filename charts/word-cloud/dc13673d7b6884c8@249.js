@@ -94,7 +94,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["descriptions.txt", {url: new URL("./../../data/descriptions.txt", import.meta.url), mimeType: "text/plain", toString}]
+    ["descriptions.txt", {url: new URL("./https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/main/data/descriptions.txt", import.meta.url), mimeType: "text/plain", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["WordCloud","words","width","invalidation"], _2);
