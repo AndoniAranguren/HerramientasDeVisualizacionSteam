@@ -1,0 +1,77 @@
+/* ---------------------------------------------------------------------------
+   Tipografía principal
+   --------------------------------------------------------------------------- */
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Karma", sans-serif;
+}
+
+/* ---------------------------------------------------------------------------
+   Espaciado en barra lateral
+   --------------------------------------------------------------------------- */
+.w3-bar-block .w3-bar-item {
+  padding: 20px;
+}
+
+/* Mantén los encabezados y descripciones a la misma altura */
+#food .w3-third h3 {
+  margin: 0;
+  min-height: 50px;
+}
+
+#food .w3-third p {
+  margin: 0;
+  min-height: 40px;
+}
+
+/* Animación de parpadeo */
+@keyframes pulse {
+  0% {
+    color: #000; /* Color inicial */
+  }
+  50% {
+    color: #10a778; /* Color intermedio (rojo) */
+  }
+  100% {
+    color: #000; /* Color final */
+  }
+}
+
+/* Aplica la animación a los enlaces */
+a {
+  animation: pulse 4s infinite; /* Duración de 4s, animación infinita */
+  text-decoration: underline; /* Opcional: elimina el subrayado */
+}
+
+/* Detiene la animación al pasar el cursor */
+a:hover {
+  animation: none;
+  color: #10a778; /* Color fijo al pasar el cursor */
+  text-decoration: underline; /* Keeps underline on hover */
+}
+
+/* Excluye los enlaces de la barra de navegación */
+.w3-top a {
+  animation: none; /* Sin animación */
+  color: inherit; /* Mantiene el color original */
+  text-decoration: none; /* Opcional: elimina el subrayado */
+}
+/* ---------------------------------------------------------------------------
+   Animación de emoji
+   --------------------------------------------------------------------------- */
+@keyframes move {
+  0% {
+    transform: translateX(0); /* Posición inicial */
+  }
+  50% {
+    transform: translateX(10px); /* Mover 10px a la derecha */
+  }
+  100% {
+    transform: translateX(0); /* Volver a la posición inicial */
+  }
+}
+
+/* Aplica la animación al emoji */
+.clickable-emoji {
+  display: inline-block; /* Necesario para aplicar transform */
+  animation: move 2s infinite; /* Duración de 2s, animación infinita */
+}

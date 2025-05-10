@@ -1,41 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Datos de Steam</title>
+<title>Estudio y visualización de datos de Steam</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<link rel="icon" href="../figures/ChordDiagramMini.png" type="image/png">
 <style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif; text-align: "center"}
 .w3-bar-block .w3-bar-item {padding:20px}
-.chart{
-    width:600px;
-    height: 375px;
-    max-width:600px;
+#chart-container {
+    width: 100%;
+    height: 100vh; /* Full height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+/* Ensure the chart fits within the container */
+#chart {
+    width: 800px;
+    height: 800px;
+}
+
 </style>
 </head>
-<body>
+<body class="center">
+    <!-- Top menu -->
+    <div class="w3-top">
+      <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+        <div class="w3-left w3-padding-16"><a href="../index.html">Atrás</a></div>
+        <div class="w3-right w3-padding-16">Actividad 1</div>
+        <div class="w3-center w3-padding-16">Estudio y visualización de datos de Steam</div>
+      </div>
+    </div>
 
-
-<!-- Top menu -->
-<div class="w3-top">
-  <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
-    <div class="w3-left w3-padding-16"><a href="../index.html">Atras</a></div>
-    <div class="w3-right w3-padding-16">Datos de Juegos</div>
-    <div class="w3-center w3-padding-16">Actividad 1</div>
-  </div>
-</div>
- 
-<div id = "chart" style="margin-bottom:100px;">
+    <div id="chart-container">
+        <div id="chart"></div>
+    </div>
     <script type="module">
 
     import define from "./index.js";
     import {Runtime, Library, Inspector} from "./runtime.js";
 
     const runtime = new Runtime();
-    const main = runtime.module(define, Inspector.into(document.body));
+    const main = runtime.module(define, Inspector.into(document.querySelector("#chart")));
 
     </script>
-</div>
+</body>

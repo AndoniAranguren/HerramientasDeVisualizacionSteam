@@ -10,36 +10,13 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
   <!-- Metadatos y configuración responsiva -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Datos de Steam</title>
+  <title>Estudio y visualización de datos de Steam</title>
 
   <!-- Estilos externos -->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
-
-  <style>
-    /* ---------------------------------------------------------------------------
-       Tipografía principal
-       --------------------------------------------------------------------------- */
-    body, h1, h2, h3, h4, h5, h6 {
-      font-family: "Karma", sans-serif;
-    }
-
-    /* ---------------------------------------------------------------------------
-       Espaciado en barra lateral
-       --------------------------------------------------------------------------- */
-    .w3-bar-block .w3-bar-item {
-      padding: 20px;
-    }
-
-    /* ---------------------------------------------------------------------------
-       Ajuste de imágenes en sección de gráficos
-       --------------------------------------------------------------------------- */
-    img {
-      width: 600px;
-      height: 375px;
-      max-width: 600px;
-    }
-  </style>
+  <link rel="icon" href="./figures/ChordDiagramMini.png" type="image/png">
+  <link rel="stylesheet" href="./nuestrostyle.css">
 </head>
 <body>
   <!-- ===========================================================================
@@ -56,6 +33,9 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">
       Gráficos
     </a>
+    <a href="#datos" onclick="w3_close()" class="w3-bar-item w3-button">
+      Sobre los Datos
+    </a>
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">
       Sobre el Equipo
     </a>
@@ -70,8 +50,8 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
       <button class="w3-button w3-padding-16 w3-left" onclick="w3_open()">
         ☰
       </button>
-      <div class="w3-right w3-padding-16">Datos de Juegos</div>
-      <div class="w3-center w3-padding-16">Actividad 1</div>
+      <div class="w3-right w3-padding-16">Actividad 1</div>
+      <div class="w3-center w3-padding-16">Estudio y visualización de datos de Steam</div>
     </div>
   </div>
 
@@ -84,19 +64,19 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
          --------------------------------------------------------------------------- -->
     <section id="food" class="w3-row-padding w3-padding-16 w3-center">
       <article class="w3-third">
-        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
-        <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+        <h3><a href="zoomable-sunburst/"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Publicadoras principales en formato circular.</p>
+        <div id = "zoomable-sunburst-chart" style="margin-bottom:100px;"></div>
       </article>
       <article class="w3-third">
-        <img src="/figures/Treemap.JPG" alt="TreeMap" style="width:100%">
-        <h3><a href="treemap_2/">TreeMap</a></h3>
+        <h3><a href="treemap_2/"><span class="clickable-emoji">👉</span>TreeMap</a></h3>
         <p>Publicadoras principales en formato treemap.</p>
+        <div id = "treemap-chart" style="margin-bottom:100px;"></div>
       </article>
       <article class="w3-third">
-        <img src="/figures/Piechart.png" alt="Pie Chart" style="width:100%">
-        <h3><a href="pie-chart_2/index.html">Pie Chart</a></h3>
+        <h3><a href="pie-chart_2/index.html"><span class="clickable-emoji">👉</span>Pie Chart</a></h3>
         <p>Géneros más populares de juegos.</p>
+        <div id = "piechart-chart" style="margin-bottom:100px;"></div>
       </article>
     </section>
 
@@ -105,29 +85,45 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
          --------------------------------------------------------------------------- -->
     <section class="w3-row-padding w3-padding-16 w3-center">
       <article class="w3-third">
-        <img src="/figures/ChordDiagram.png" alt="Chord Diagram" style="width:100%">
-        <h3><a href="chord-diagram/">Chord Diagram</a></h3>
+        <h3><a href="chord-diagram/"><span class="clickable-emoji">👉</span>Chord Diagram</a></h3>
         <p>Relaciones entre géneros de juegos.</p>
+        <div id = "chord-diagram-chart" style="margin-bottom:100px;"></div>
       </article>
       <!-- Placeholder adicional -->
       <article class="w3-third">
-        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
-        <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+        <h3><a href="zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Publicadoras principales en formato circular.</p>
+        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
       </article>
       <!-- Otro placeholder -->
       <article class="w3-third">
-        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
-        <h3><a href="zoomable-sunburst/index.html">Zoomable Sunburst</a></h3>
+        <h3><a href="zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
         <p>Publicadoras principales en formato circular.</p>
+        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
       </article>
     </section>
-
-    <hr id="about">
-
+  </div>
+    <!-- ---------------------------------------------------------------------------
+         Sección "Sobre los Datos"
+         --------------------------------------------------------------------------- -->
+  <hr id="datos">
+  <section class="w3-container w3-padding-32 w3-center">
+    <h3>Sobre los datos</h3>
+    <div class="w3-padding-32" style="max-width: 1200px; margin: auto;">
+      <p>Los datos utilizados en esta visualización provienen de un repositorio abierto de Kaggle,
+        donde se pueden encontrar detalles sobre videojuegos, incluyendo sus géneros, desarrolladores
+        y más. Estos datos han sido procesados en Python y luego convertidos a formato JSON para su uso en D3.js.
+      Estos datos pertenecen a la plataforma de tienda digital Steam y abarcan una amplia gama de videojuegos,
+        desde títulos independientes hasta grandes producciones. La información incluye detalles como el nombre del juego,
+        la fecha de lanzamiento, el género, la puntuación de los usuarios y otros atributos relevantes.
+      Para consultar la plataforma Steam, puedes visitar su <a href="https://store.steampowered.com/">sitio web</a>.</p>
+      <p>Se respeta la licencia de los datos MIT dado que se han utilizado para fines educativos y de investigación y se atribuye la fuente original. </br> Para más información, visita el <a href="https://www.kaggle.com/datasets/fronkongames/steam-games-dataset">repositorio de Kaggle</a>.</p>
+    </div>
+  </section>
     <!-- ---------------------------------------------------------------------------
          Sección "Sobre el Equipo"
          --------------------------------------------------------------------------- -->
+    <hr id="about">
     <section class="w3-container w3-padding-32 w3-center">
       <h3>Sobre el Equipo</h3>
       <div class="w3-padding-32">
@@ -138,7 +134,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     </section>
 
     <hr>
-  </div>
+  </section>
 
   <!-- ===========================================================================
        Funciones de interacción: abrir/cerrar barra lateral
@@ -159,6 +155,15 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     function w3_close() {
       document.getElementById("mySidebar").style.display = "none";
     }
-  </script>
+    </script>
+    <script type="module">
+    import { tryInitializeChart } from './chartInitializer.js';
+
+    // Retry initializing all charts
+    tryInitializeChart("./zoomable-sunburst", "#zoomable-sunburst-chart");
+    tryInitializeChart("./treemap_2", "#treemap-chart");
+    tryInitializeChart("./pie-chart_2", "#piechart-chart");
+    tryInitializeChart("./chord-diagram", "#chord-diagram-chart");
+    </script>
 </body>
 </html>
