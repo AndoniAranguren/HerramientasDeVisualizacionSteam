@@ -1,1110 +1,490 @@
 [
   {
-    "text": "['czech'",
-    "value": 22
+    "text": "czech",
+    "size": 4192
   },
   {
-    "text": "'danish'",
-    "value": 3330
+    "text": "danish",
+    "size": 3378
   },
   {
-    "text": "'dutch'",
-    "value": 4981
+    "text": "dutch",
+    "size": 5277
   },
   {
-    "text": "'english'",
-    "value": 1093
+    "text": "english",
+    "size": 80096
   },
   {
-    "text": "'finnish'",
-    "value": 3220
+    "text": "finnish",
+    "size": 3273
   },
   {
-    "text": "'french'",
-    "value": 18687
+    "text": "french",
+    "size": 19886
   },
   {
-    "text": "'german'",
-    "value": 18752
+    "text": "german",
+    "size": 20360
   },
   {
-    "text": "'hungarian'",
-    "value": 3347
+    "text": "hungarian",
+    "size": 3575
   },
   {
-    "text": "'italian'",
-    "value": 13401
+    "text": "italian",
+    "size": 13845
   },
   {
-    "text": "'japanese'",
-    "value": 12571
+    "text": "japanese",
+    "size": 17750
   },
   {
-    "text": "'korean'",
-    "value": 8961
+    "text": "korean",
+    "size": 11533
   },
   {
-    "text": "'norwegian'",
-    "value": 3254
+    "text": "norwegian",
+    "size": 3301
   },
   {
-    "text": "'polish'",
-    "value": 7866
+    "text": "polish",
+    "size": 8618
   },
   {
-    "text": "'portuguese - portugal'",
-    "value": 6301
+    "text": "portuguese",
+    "size": 17904
   },
   {
-    "text": "'portuguese - brazil'",
-    "value": 8970
+    "text": "romanian",
+    "size": 3022
   },
   {
-    "text": "'romanian'",
-    "value": 2974
+    "text": "russian",
+    "size": 18705
   },
   {
-    "text": "'russian'",
-    "value": 13189
+    "text": "simplified",
+    "size": 21519
   },
   {
-    "text": "'simplified chinese'",
-    "value": 13717
+    "text": "spanish",
+    "size": 24152
   },
   {
-    "text": "'spanish - spain'",
-    "value": 16039
+    "text": "swedish",
+    "size": 3871
   },
   {
-    "text": "'swedish'",
-    "value": 3467
+    "text": "thai",
+    "size": 3571
   },
   {
-    "text": "'thai'",
-    "value": 3365
+    "text": "traditional",
+    "size": 10993
   },
   {
-    "text": "'traditional chinese'",
-    "value": 7275
+    "text": "turkish",
+    "size": 6575
   },
   {
-    "text": "'turkish'",
-    "value": 4830
+    "text": "bulgarian",
+    "size": 2775
   },
   {
-    "text": "'bulgarian'",
-    "value": 2748
+    "text": "ukrainian",
+    "size": 4116
   },
   {
-    "text": "'ukrainian'",
-    "value": 3280
+    "text": "greek",
+    "size": 2968
   },
   {
-    "text": "'greek'",
-    "value": 2937
+    "text": "vietnamese",
+    "size": 2900
   },
   {
-    "text": "'spanish - latin america'",
-    "value": 4289
+    "text": "arabic",
+    "size": 3532
   },
   {
-    "text": "'vietnamese']",
-    "value": 690
+    "text": "catalan",
+    "size": 1160
   },
   {
-    "text": "['english'",
-    "value": 34854
+    "text": "latvian",
+    "size": 1059
   },
   {
-    "text": "'arabic'",
-    "value": 3308
+    "text": "lithuanian",
+    "size": 1071
   },
   {
-    "text": "'ukrainian']",
-    "value": 830
+    "text": "slovak",
+    "size": 1129
   },
   {
-    "text": "['bulgarian'",
-    "value": 1
+    "text": "serbian",
+    "size": 1076
   },
   {
-    "text": "'czech'",
-    "value": 3910
+    "text": "belarusian",
+    "size": 1077
   },
   {
-    "text": "'spanish - latin america']",
-    "value": 1341
+    "text": "kazakh",
+    "size": 1023
   },
   {
-    "text": "'thai']",
-    "value": 191
+    "text": "georgian",
+    "size": 1033
   },
   {
-    "text": "'simplified chinese']",
-    "value": 4784
+    "text": "hindi",
+    "size": 1166
   },
   {
-    "text": "'arabic']",
-    "value": 214
+    "text": "malay",
+    "size": 1108
   },
   {
-    "text": "['danish'",
-    "value": 9
+    "text": "estonian",
+    "size": 1053
   },
   {
-    "text": "'traditional chinese']",
-    "value": 3384
+    "text": "macedonian",
+    "size": 1019
   },
   {
-    "text": "[]",
-    "value": 4158
+    "text": "indonesian",
+    "size": 1606
   },
   {
-    "text": "'turkish']",
-    "value": 1717
+    "text": "croatian",
+    "size": 1075
   },
   {
-    "text": "'catalan']",
-    "value": 85
+    "text": "basque",
+    "size": 1062
   },
   {
-    "text": "'japanese']",
-    "value": 3923
+    "text": "filipino",
+    "size": 1057
   },
   {
-    "text": "['english']",
-    "value": 42940
+    "text": "slovenian",
+    "size": 1044
   },
   {
-    "text": "'korean']",
-    "value": 2293
+    "text": "langslovakian",
+    "size": 2
   },
   {
-    "text": "'romanian']",
-    "value": 45
+    "text": "afrikaans",
+    "size": 1037
   },
   {
-    "text": "'spanish - spain']",
-    "value": 2353
+    "text": "hebrew",
+    "size": 1086
   },
   {
-    "text": "'polish']",
-    "value": 730
+    "text": "persian",
+    "size": 1052
   },
   {
-    "text": "'portuguese - brazil']",
-    "value": 1893
+    "text": "galician",
+    "size": 1038
   },
   {
-    "text": "'czech']",
-    "value": 257
+    "text": "azerbaijani",
+    "size": 1037
   },
   {
-    "text": "'swedish']",
-    "value": 403
+    "text": "albanian",
+    "size": 1029
   },
   {
-    "text": "'vietnamese'",
-    "value": 2205
+    "text": "amharic",
+    "size": 1006
   },
   {
-    "text": "'latvian'",
-    "value": 1037
+    "text": "armenian",
+    "size": 1014
   },
   {
-    "text": "'lithuanian'",
-    "value": 1057
+    "text": "assamese",
+    "size": 1006
   },
   {
-    "text": "'slovak']",
-    "value": 64
+    "text": "bangla",
+    "size": 1047
   },
   {
-    "text": "'serbian'",
-    "value": 1060
+    "text": "bosnian",
+    "size": 1026
   },
   {
-    "text": "'catalan'",
-    "value": 1075
+    "text": "valencian",
+    "size": 995
   },
   {
-    "text": "'lithuanian']",
-    "value": 14
+    "text": "welsh",
+    "size": 1029
   },
   {
-    "text": "'german']",
-    "value": 1497
+    "text": "wolof",
+    "size": 994
   },
   {
-    "text": "['simplified chinese'",
-    "value": 1145
+    "text": "gujarati",
+    "size": 1020
   },
   {
-    "text": "'russian']",
-    "value": 5223
+    "text": "dari",
+    "size": 997
   },
   {
-    "text": "'portuguese - portugal']",
-    "value": 634
+    "text": "zulu",
+    "size": 1014
   },
   {
-    "text": "'belarusian'",
-    "value": 1050
+    "text": "igbo",
+    "size": 1010
   },
   {
-    "text": "'kazakh'",
-    "value": 1020
+    "text": "irish",
+    "size": 1026
   },
   {
-    "text": "'georgian']",
-    "value": 4
+    "text": "icelandic",
+    "size": 1040
   },
   {
-    "text": "'hindi'",
-    "value": 1090
+    "text": "yoruba",
+    "size": 1011
   },
   {
-    "text": "'malay']",
-    "value": 39
+    "text": "kannada",
+    "size": 1012
   },
   {
-    "text": "'estonian'",
-    "value": 684
+    "text": "quechua",
+    "size": 1003
   },
   {
-    "text": "'macedonian'",
-    "value": 1018
+    "text": "kinyarwanda",
+    "size": 1011
   },
   {
-    "text": "'indonesian'",
-    "value": 1444
+    "text": "kiche",
+    "size": 995
   },
   {
-    "text": "['japanese'",
-    "value": 629
+    "text": "konkani",
+    "size": 1004
   },
   {
-    "text": "'croatian'",
-    "value": 1058
+    "text": "xhosa",
+    "size": 1009
   },
   {
-    "text": "'georgian'",
-    "value": 1029
+    "text": "khmer",
+    "size": 1005
   },
   {
-    "text": "'greek']",
-    "value": 29
+    "text": "kyrgyz",
+    "size": 1012
   },
   {
-    "text": "'indonesian']",
-    "value": 161
+    "text": "luxembourgish",
+    "size": 1017
   },
   {
-    "text": "'english']",
-    "value": 1205
+    "text": "malayalam",
+    "size": 1012
   },
   {
-    "text": "'italian']",
-    "value": 414
+    "text": "maltese",
+    "size": 1011
   },
   {
-    "text": "'basque'",
-    "value": 1038
+    "text": "maori",
+    "size": 1010
   },
   {
-    "text": "'dutch']",
-    "value": 287
+    "text": "marathi",
+    "size": 1010
   },
   {
-    "text": "'traditional chinese  ']",
-    "value": 1
+    "text": "mongolian",
+    "size": 1021
   },
   {
-    "text": "'slovak'",
-    "value": 1063
+    "text": "nepali",
+    "size": 1013
   },
   {
-    "text": "'hindi']",
-    "value": 76
+    "text": "odia",
+    "size": 1008
   },
   {
-    "text": "['simplified chinese']",
-    "value": 1873
+    "text": "punjabi",
+    "size": 2026
   },
   {
-    "text": "['french'",
-    "value": 76
+    "text": "sotho",
+    "size": 1007
   },
   {
-    "text": "'hungarian']",
-    "value": 226
+    "text": "sinhala",
+    "size": 1010
   },
   {
-    "text": "'french']",
-    "value": 1054
+    "text": "sindhi",
+    "size": 1004
   },
   {
-    "text": "'croatian']",
-    "value": 16
+    "text": "sorani",
+    "size": 1000
   },
   {
-    "text": "['italian'",
-    "value": 13
+    "text": "swahili",
+    "size": 1016
   },
   {
-    "text": "'filipino'",
-    "value": 1049
+    "text": "tajik",
+    "size": 1012
   },
   {
-    "text": "'slovenian']",
-    "value": 16
+    "text": "tamil",
+    "size": 1016
   },
   {
-    "text": "'#lang_slovakian'",
-    "value": 2
+    "text": "tatar",
+    "size": 1010
   },
   {
-    "text": "['german'",
-    "value": 54
+    "text": "telugu",
+    "size": 1012
   },
   {
-    "text": "'bulgarian']",
-    "value": 25
+    "text": "tigrinya",
+    "size": 999
   },
   {
-    "text": "'norwegian']",
-    "value": 44
+    "text": "tswana",
+    "size": 995
   },
   {
-    "text": "'danish']",
-    "value": 38
+    "text": "turkmen",
+    "size": 1010
   },
   {
-    "text": "'afrikaans']",
-    "value": 8
+    "text": "uzbek",
+    "size": 1023
   },
   {
-    "text": "'hebrew']",
-    "value": 23
+    "text": "uyghur",
+    "size": 1011
   },
   {
-    "text": "['traditional chinese'",
-    "value": 203
+    "text": "urdu",
+    "size": 1030
   },
   {
-    "text": "'persian']",
-    "value": 21
+    "text": "hausa",
+    "size": 1012
   },
   {
-    "text": "['russian'",
-    "value": 181
+    "text": "cherokee",
+    "size": 996
   },
   {
-    "text": "'finnish']",
-    "value": 47
+    "text": "scots",
+    "size": 1008
   },
   {
-    "text": "'galician'",
-    "value": 1024
+    "text": "englishb",
+    "size": 4
   },
   {
-    "text": "'basque']",
-    "value": 24
+    "text": "b",
+    "size": 14
   },
   {
-    "text": "'estonian']",
-    "value": 369
+    "text": "russianrnb",
+    "size": 1
   },
   {
-    "text": "'latvian']",
-    "value": 22
+    "text": "englishrnrussianrnspanish",
+    "size": 1
   },
   {
-    "text": "'azerbaijani'",
-    "value": 1031
+    "text": "germanb",
+    "size": 2
   },
   {
-    "text": "'albanian'",
-    "value": 1028
+    "text": "rnfrench",
+    "size": 1
   },
   {
-    "text": "'amharic'",
-    "value": 1006
+    "text": "rngerman",
+    "size": 1
   },
   {
-    "text": "'armenian'",
-    "value": 1014
+    "text": "russianrnenglishrnspanish",
+    "size": 1
   },
   {
-    "text": "'assamese'",
-    "value": 1006
+    "text": "frenchb",
+    "size": 1
   },
   {
-    "text": "'afrikaans'",
-    "value": 1029
+    "text": "italianb",
+    "size": 1
   },
   {
-    "text": "'bangla'",
-    "value": 1046
+    "text": "koreanb",
+    "size": 1
   },
   {
-    "text": "'bosnian'",
-    "value": 1024
-  },
-  {
-    "text": "'valencian'",
-    "value": 994
-  },
-  {
-    "text": "'welsh'",
-    "value": 1018
-  },
-  {
-    "text": "'wolof'",
-    "value": 994
-  },
-  {
-    "text": "'gujarati'",
-    "value": 1020
-  },
-  {
-    "text": "'dari'",
-    "value": 997
-  },
-  {
-    "text": "'zulu'",
-    "value": 724
-  },
-  {
-    "text": "'hebrew'",
-    "value": 1061
-  },
-  {
-    "text": "'igbo'",
-    "value": 892
-  },
-  {
-    "text": "'irish'",
-    "value": 1022
-  },
-  {
-    "text": "'icelandic'",
-    "value": 1019
-  },
-  {
-    "text": "'yoruba'",
-    "value": 1009
-  },
-  {
-    "text": "'kannada'",
-    "value": 1012
-  },
-  {
-    "text": "'quechua'",
-    "value": 1003
-  },
-  {
-    "text": "'kinyarwanda'",
-    "value": 982
-  },
-  {
-    "text": "\"k'iche'\"",
-    "value": 995
-  },
-  {
-    "text": "'konkani'",
-    "value": 1004
-  },
-  {
-    "text": "'xhosa'",
-    "value": 1005
-  },
-  {
-    "text": "'khmer'",
-    "value": 880
-  },
-  {
-    "text": "'kyrgyz'",
-    "value": 1012
-  },
-  {
-    "text": "'luxembourgish'",
-    "value": 1015
-  },
-  {
-    "text": "'malay'",
-    "value": 1069
-  },
-  {
-    "text": "'malayalam'",
-    "value": 1012
-  },
-  {
-    "text": "'maltese'",
-    "value": 1011
-  },
-  {
-    "text": "'maori'",
-    "value": 1009
-  },
-  {
-    "text": "'marathi'",
-    "value": 1009
-  },
-  {
-    "text": "'mongolian'",
-    "value": 1020
-  },
-  {
-    "text": "'nepali'",
-    "value": 1013
-  },
-  {
-    "text": "'odia'",
-    "value": 1008
-  },
-  {
-    "text": "'punjabi  '",
-    "value": 2024
-  },
-  {
-    "text": "'persian'",
-    "value": 1031
-  },
-  {
-    "text": "'sotho'",
-    "value": 1007
-  },
-  {
-    "text": "'sinhala'",
-    "value": 1010
-  },
-  {
-    "text": "'sindhi'",
-    "value": 1004
-  },
-  {
-    "text": "'slovenian'",
-    "value": 1028
-  },
-  {
-    "text": "'sorani'",
-    "value": 1000
-  },
-  {
-    "text": "'swahili'",
-    "value": 1014
-  },
-  {
-    "text": "'tajik'",
-    "value": 1012
-  },
-  {
-    "text": "'tamil'",
-    "value": 1015
-  },
-  {
-    "text": "'tatar'",
-    "value": 1010
-  },
-  {
-    "text": "'telugu'",
-    "value": 1011
-  },
-  {
-    "text": "'tigrinya'",
-    "value": 998
-  },
-  {
-    "text": "'tswana'",
-    "value": 995
-  },
-  {
-    "text": "'turkmen'",
-    "value": 1010
-  },
-  {
-    "text": "'uzbek'",
-    "value": 1012
-  },
-  {
-    "text": "'uyghur'",
-    "value": 1009
-  },
-  {
-    "text": "'urdu'",
-    "value": 1022
-  },
-  {
-    "text": "'hausa'",
-    "value": 1012
-  },
-  {
-    "text": "'cherokee'",
-    "value": 995
-  },
-  {
-    "text": "'scots'",
-    "value": 959
-  },
-  {
-    "text": "'welsh']",
-    "value": 11
-  },
-  {
-    "text": "['dutch'",
-    "value": 8
-  },
-  {
-    "text": "['spanish - spain'",
-    "value": 43
-  },
-  {
-    "text": "'irish']",
-    "value": 4
-  },
-  {
-    "text": "'khmer']",
-    "value": 125
-  },
-  {
-    "text": "'zulu']",
-    "value": 290
-  },
-  {
-    "text": "['korean'",
-    "value": 115
-  },
-  {
-    "text": "['japanese']",
-    "value": 622
-  },
-  {
-    "text": "['russian']",
-    "value": 112
-  },
-  {
-    "text": "'xhosa']",
-    "value": 4
-  },
-  {
-    "text": "['portuguese - brazil']",
-    "value": 49
-  },
-  {
-    "text": "'icelandic']",
-    "value": 21
-  },
-  {
-    "text": "'scots']",
-    "value": 49
-  },
-  {
-    "text": "['portuguese - brazil'",
-    "value": 53
-  },
-  {
-    "text": "'serbian']",
-    "value": 16
-  },
-  {
-    "text": "['traditional chinese']",
-    "value": 130
-  },
-  {
-    "text": "['romanian']",
-    "value": 2
-  },
-  {
-    "text": "['korean']",
-    "value": 164
-  },
-  {
-    "text": "'galician']",
-    "value": 14
-  },
-  {
-    "text": "['english[b][",
-    "value": 4
-  },
-  {
-    "text": "b]'",
-    "value": 10
-  },
-  {
-    "text": "'italian \\r\\n\\r\\n[b][",
-    "value": 1
-  },
-  {
-    "text": "b] ']",
-    "value": 2
-  },
-  {
-    "text": "'belarusian']",
-    "value": 27
-  },
-  {
-    "text": "['polish']",
-    "value": 12
-  },
-  {
-    "text": "'azerbaijani']",
-    "value": 6
-  },
-  {
-    "text": "'german",
-    "value": 2
-  },
-  {
-    "text": "'",
-    "value": 20
-  },
-  {
-    "text": "['turkish'",
-    "value": 16
-  },
-  {
-    "text": "['french']",
-    "value": 69
-  },
-  {
-    "text": "['arabic']",
-    "value": 7
-  },
-  {
-    "text": "'urdu']",
-    "value": 8
-  },
-  {
-    "text": "'uzbek']",
-    "value": 11
-  },
-  {
-    "text": "['turkish']",
-    "value": 12
-  },
-  {
-    "text": "'russian\\r\\n[b][",
-    "value": 1
-  },
-  {
-    "text": "b]']",
-    "value": 2
-  },
-  {
-    "text": "'igbo']",
-    "value": 118
-  },
-  {
-    "text": "['spanish - latin america'",
-    "value": 29
-  },
-  {
-    "text": "['vietnamese']",
-    "value": 4
-  },
-  {
-    "text": "'filipino']",
-    "value": 8
-  },
-  {
-    "text": "['polish'",
-    "value": 9
-  },
-  {
-    "text": "['czech']",
-    "value": 3
-  },
-  {
-    "text": "'swahili']",
-    "value": 2
-  },
-  {
-    "text": "['english dutch  english']",
-    "value": 1
-  },
-  {
-    "text": "['german']",
-    "value": 55
-  },
-  {
-    "text": "'valencian']",
-    "value": 1
-  },
-  {
-    "text": "['thai'",
-    "value": 6
-  },
-  {
-    "text": "'hungarian",
-    "value": 1
-  },
-  {
-    "text": "polish'",
-    "value": 1
-  },
-  {
-    "text": "['english\\r\\nrussian\\r\\nspanish - spain\\r\\njapanese\\r\\nczech']",
-    "value": 1
-  },
-  {
-    "text": "'german[b][",
-    "value": 2
-  },
-  {
-    "text": "'spanish - spain\\r\\n[b][",
-    "value": 1
-  },
-  {
-    "text": "['thai']",
-    "value": 9
-  },
-  {
-    "text": "['hebrew']",
-    "value": 2
-  },
-  {
-    "text": "['english  '",
-    "value": 3
-  },
-  {
-    "text": "'telugu']",
-    "value": 1
-  },
-  {
-    "text": "'kinyarwanda']",
-    "value": 29
-  },
-  {
-    "text": "'\\r\\nfrench'",
-    "value": 1
-  },
-  {
-    "text": "'\\r\\ngerman']",
-    "value": 1
-  },
-  {
-    "text": "['ukrainian'",
-    "value": 6
-  },
-  {
-    "text": "['spanish - spain']",
-    "value": 37
-  },
-  {
-    "text": "['swedish']",
-    "value": 1
-  },
-  {
-    "text": "'luxembourgish']",
-    "value": 2
-  },
-  {
-    "text": "'cherokee']",
-    "value": 1
-  },
-  {
-    "text": "['finnish']",
-    "value": 6
-  },
-  {
-    "text": "['hungarian'",
-    "value": 1
-  },
-  {
-    "text": "'marathi']",
-    "value": 1
-  },
-  {
-    "text": "'japanese  ']",
-    "value": 1
-  },
-  {
-    "text": "['russian\\r\\nenglish\\r\\nspanish - spain\\r\\nfrench\\r\\njapanese\\r\\nczech']",
-    "value": 1
-  },
-  {
-    "text": "['spanish - latin america']",
-    "value": 16
-  },
-  {
-    "text": "['greek']",
-    "value": 2
-  },
-  {
-    "text": "'tigrinya']",
-    "value": 1
-  },
-  {
-    "text": "'uyghur']",
-    "value": 2
-  },
-  {
-    "text": "['italian']",
-    "value": 16
-  },
-  {
-    "text": "['arabic'",
-    "value": 3
-  },
-  {
-    "text": "'punjabi  ']",
-    "value": 2
-  },
-  {
-    "text": "'french[b][",
-    "value": 1
-  },
-  {
-    "text": "'italian[b][",
-    "value": 1
-  },
-  {
-    "text": "'spanish - spain[b][",
-    "value": 1
-  },
-  {
-    "text": "'korean[b][",
-    "value": 1
-  },
-  {
-    "text": "'japanese \\r\\n\\r\\n[b][",
-    "value": 1
-  },
-  {
-    "text": "'maori']",
-    "value": 1
-  },
-  {
-    "text": "['portuguese - portugal'",
-    "value": 1
-  },
-  {
-    "text": "['slovak']",
-    "value": 2
-  },
-  {
-    "text": "'bangla']",
-    "value": 1
-  },
-  {
-    "text": "'yoruba']",
-    "value": 2
-  },
-  {
-    "text": "['norwegian']",
-    "value": 3
-  },
-  {
-    "text": "'mongolian']",
-    "value": 1
-  },
-  {
-    "text": "['dutch']",
-    "value": 1
-  },
-  {
-    "text": "['portuguese - portugal']",
-    "value": 3
-  },
-  {
-    "text": "['bulgarian']",
-    "value": 1
-  },
-  {
-    "text": "'kazakh']",
-    "value": 3
-  },
-  {
-    "text": "['indonesian']",
-    "value": 1
-  },
-  {
-    "text": "['danish']",
-    "value": 1
-  },
-  {
-    "text": "['vietnamese'",
-    "value": 1
-  },
-  {
-    "text": "['english&amp",
-    "value": 3
+    "text": "englishamp",
+    "size": 3
   },
   {
     "text": "amp",
-    "value": 32
+    "size": 65
   },
   {
     "text": "lt",
-    "value": 48
+    "size": 48
   },
   {
-    "text": "strong&amp",
-    "value": 42
+    "text": "strongamp",
+    "size": 42
   },
   {
     "text": "gt",
-    "value": 48
+    "size": 48
   },
   {
-    "text": "&amp",
-    "value": 33
+    "text": "frenchamp",
+    "size": 3
   },
   {
-    "text": "'french&amp",
-    "value": 3
+    "text": "italianamp",
+    "size": 3
   },
   {
-    "text": "'italian&amp",
-    "value": 3
+    "text": "germanamp",
+    "size": 3
   },
   {
-    "text": "'german&amp",
-    "value": 3
-  },
-  {
-    "text": "'spanish - spain&amp",
-    "value": 3
-  },
-  {
-    "text": "'korean&amp",
-    "value": 3
-  },
-  {
-    "text": "'japanese &amp",
-    "value": 3
+    "text": "koreanamp",
+    "size": 3
   },
   {
     "text": "br",
-    "value": 6
-  },
-  {
-    "text": "']",
-    "value": 3
-  },
-  {
-    "text": "'bosnian']",
-    "value": 2
-  },
-  {
-    "text": "['romanian'",
-    "value": 1
-  },
-  {
-    "text": "'albanian']",
-    "value": 1
-  },
-  {
-    "text": "['croatian'",
-    "value": 1
-  },
-  {
-    "text": "'tamil']",
-    "value": 1
-  },
-  {
-    "text": "'macedonian']",
-    "value": 1
+    "size": 6
   }
 ]
