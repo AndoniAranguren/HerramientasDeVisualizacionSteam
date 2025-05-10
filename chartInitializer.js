@@ -39,16 +39,28 @@ function delay(ms) {
 * @param {string} modulePath - El path de la carpeta del módulo.
 * @param {string} targetSelector - El selector CSS del contenedor objetivo.
 */
-async function tryInitializeChart(modulePath, targetSelector) {
+async function tryInitializeChart(modulePath, targetSelector, fallbackImage) {
     let success = false;
-    while (!success) {
+    let retries = 0;
+    while (!success && retries < 3) {
         try {
             await initializeChart(modulePath, targetSelector);
             success = true; // If no error, mark as successful
         } catch (error) {
             console.error(`Reintentando para ${targetSelector}:`, error);
             await delay(500); // Wait 500ms before retrying
+            retries++;
         }
+    }
+    if (!success) {
+        console.error(`No se pudo inicializar el gráfico después de ${retries} reintentos.`);
+
+        const target = document.querySelector(targetSelector);
+        const url = "https://raw.githubusercontent.com/AndoniAranguren/HerramientasDeVisualizacionSteam/refs/heads/main/figures/"+ fallbackImage;
+        // Add a fallback image
+        const fallbackImageElem = document.createElement("img");
+        fallbackImageElem.src = url;
+        target.appendChild(fallbackImageElem);
     }
 }
 

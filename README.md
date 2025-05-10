@@ -1,3 +1,4 @@
+[![HTML Preview](https://img.shields.io/badge/HTML-Preview-brightgreen)](https://html-preview.github.io/?url=https://github.com/AndoniAranguren/HerramientasDeVisualizacionSteam/blob/main/index.html)
 # Descripción del proyecto
 
 En la actualidad existen múltiples iniciativas de datos abiertos y plataformas que facilitan el uso de datos públicos por parte de los profesionales y ciudadanos en general, con el objetivo de enriquecer las noticias y contrastar las cifras ofrecidas por las diversas fuentes. epData es una de dichas plataformas: https://www.epdata.es/
@@ -54,20 +55,20 @@ Conclusiones: Los géneros están altamente interconectados. Las probabilidades 
 
 
 ## Sunburst
-![Sunburst](figures/Sunburst.jpg)
+![Sunburst](figures/Sunburst.png)
 Este gráfico permite ver la proporción de jugadores por desarrolladora y juego, pero no permite ver la proporción de jugadores por desarrolladora y el número de juegos que tiene cada desarrolladora.
 
 Conclusiones: 4 desarrolladoras hacen el 50% de las 20 desarrolladoras con más jugadores en sus juegos.
 Valve es la principal, con más de un 25% de los jugadores. Es muy probable que esto se deba a que es la propietaria de la plataforma STEAM y pueda publicitar aquí sus juegos.
 
 ## Treemap
-![Treemap](figures/Treemap.JPG)
+![Treemap](figures/Treemap.png)
 Este gráfico permite visualizar mejor la distribución de jugadores por desarrolladora y juego, ya que el gráfico de sunburst no permite ver la proporción de jugadores por desarrolladora y juego.
 
 Conclusiones: CSGO contiene un porcentaje 12% de los jugadores de la plataforma. Otras desarrolladoras que contienen una gran porción de los jugadores están divididas en distintos juegos excepto PUBG, Terraria, Rust, Among Us y algunos otros juegos cuyas desarrolladoras no tienen más que un juego con grandes números de jugadores.
 
 ## Wordcloud
-![Wordcloud](figures/Wordcloud.JPG)
+![Wordcloud](figures/Wordcloud.png)
 Este gráfico visualiza las palabras más comunes de las descripciones de un set de juegos seleccionado. Estos juegos son aquellos de las 10 publicadoras con más jugadores que se han analizado en el zoomable sunburst.
 
 Conclusiones: Es muy común encontrarse números entre las palabras más comunes como one, two o first. Pero las palabras más comunes son game, new, world. Entre otros también se encuentran palabras como play, explore, strategy, experience o pc.
