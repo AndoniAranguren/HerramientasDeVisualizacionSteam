@@ -56,7 +56,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
       <!-- zoomable sunburst -->
       <article class="w3-half">
         <h3><a href="charts/zoomable-sunburst/"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
-        <p>Publicadoras principales en formato circular.</p>
+        <p>Las 10 publicadoras principales en formato tarta e interactivo (Prueba a hacer clic).</p>
         <div id = "zoomable-sunburst-chart" style="margin-bottom:100px;"></div>
       </article>
       <!-- treemap_2 -->
@@ -74,7 +74,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
       <!-- Piechart -->
       <article class="w3-half">
         <h3><a href="charts/pie-chart_2/index.html"><span class="clickable-emoji">👉</span>Pie Chart</a></h3>
-        <p>Géneros más populares de juegos.</p>
+        <p>14 géneros más populares de los juegos de Steam.</p>
         <div id = "piechart-chart" style="margin-bottom:100px;"></div>
       </article>
       <!-- Chord diagram -->
@@ -91,9 +91,9 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     <section class="w3-row-padding w3-padding-16 w3-center">
       <!-- Placeholder adicional -->
       <article class="w3-half">
-        <h3><a href="charts/zoomable-sunburst/index.html"><span class="clickable-emoji">👉</span>Zoomable Sunburst</a></h3>
-        <p>Publicadoras principales en formato circular.</p>
-        <img src="/figures/Sunburst.jpg" alt="Zoomable Sunburst" style="width:100%">
+        <h3><a href="charts/word-cloud/index.html"><span class="clickable-emoji">👉</span>Wordcloud</a></h3>
+        <p>Palabras más comunes de las descripciones de los juegos de las 10 desarrolladoras con más jugadores.</p>
+        <div id = "wordcloud-chart" style="margin-bottom:100px;"></div>
       </article>
     </section>
   </div>
@@ -159,6 +159,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     tryInitializeChart("./charts/treemap_2", "#treemap-chart");
     tryInitializeChart("./charts/pie-chart_2", "#piechart-chart");
     tryInitializeChart("./charts/chord-diagram", "#chord-diagram-chart");
+    tryInitializeChart("./charts/word-cloud", "#wordcloud-chart");
     </script>
 </body>
 </html>
