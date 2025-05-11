@@ -18,6 +18,11 @@ async function initializeChart(modulePath, targetSelector) {
         }
         const runtime = new Runtime();
         runtime.module(define, Inspector.into(target));
+        // Eliminar la imagen placeholder si existe
+        const placeholder = target.querySelector(".placeholder");
+        if (placeholder) {
+            placeholder.remove();
+        }
     } catch (error) {
         console.error("Error al inicializar el gráfico:", error);
         throw error; // Re-throw the error for retry logic
