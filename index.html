@@ -86,7 +86,7 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     </section>
 
     <!-- ---------------------------------------------------------------------------
-         Sección de Gráficos - Fila 2
+         Sección de Gráficos - Fila 3
          --------------------------------------------------------------------------- -->
     <section class="w3-row-padding w3-padding-16 w3-center">
       <!-- Placeholder adicional -->
@@ -94,6 +94,18 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
         <h3><a href="./charts/word-cloud/index.html"><span class="clickable-emoji">👉</span>Wordcloud</a></h3>
         <p>Palabras más comunes de las descripciones de los juegos de las 10 desarrolladoras con más jugadores.</p>
         <div id = "wordcloud-chart" style="margin-bottom:100px;"></div>
+      </article>
+    </section>
+
+    <!-- ---------------------------------------------------------------------------
+         Sección de Gráficos - Fila 4
+         --------------------------------------------------------------------------- -->
+    <section class="w3-row-padding w3-padding-16 w3-center">
+      <!-- Placeholder adicional -->
+      <article class="w3">
+        <h3><a href="./charts/bar-chart-race/index.html"><span class="clickable-emoji">👉</span>Barchart race</a></h3>
+        <p>Evolución de los idiomas más comunes a cada año.</p>
+        <div id = "bar-chart-race-chart" style="margin-bottom:100px;"></div>
       </article>
     </section>
   </div>
@@ -160,6 +172,8 @@ Responsive UI para visualizar datos de juegos con D3.js y W3.CSS.
     tryInitializeChart("./charts/pie-chart_2", "#piechart-chart");
     tryInitializeChart("./charts/chord-diagram", "#chord-diagram-chart");
     tryInitializeChart("./charts/word-cloud", "#wordcloud-chart");
+    tryInitializeChart("./charts/bar-chart-race", "#bar-chart-race-chart");
+
 
     </script>
 </body>

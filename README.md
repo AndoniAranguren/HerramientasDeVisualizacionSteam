@@ -32,13 +32,14 @@ También se valorará el grado de originalidad y la modificación/ampliación de
 # Tabla de Tareas
 | Encargado | Tarea                               |
 |-----------|-------------------------------------|
-| Andoni    | Pie chart (sunburst)                |
+| Andoni    | Zoomable sunburst                   |
+| Andoni    | Barchart Race                       |
 | Andoni    | Treemap                             |
 | Jesús     | Chord diagram                       |
-| Jesús     | Bubblechart                         |
-| Jesús     | Juntarlo HTML                       |
+| Jesús     | Piechart                            |
 | Alex      | Wordcloud                           |
 | Alex      | Preparar documento PDF con gráficas |
+| Todos     | Juntarlo HTML                       |
 
 # Figuras
 ## Pie chart
@@ -72,3 +73,9 @@ Conclusiones: CSGO contiene un porcentaje 12% de los jugadores de la plataforma.
 Este gráfico visualiza las palabras más comunes de las descripciones de un set de juegos seleccionado. Estos juegos son aquellos de las 10 publicadoras con más jugadores que se han analizado en el zoomable sunburst.
 
 Conclusiones: Es muy común encontrarse números entre las palabras más comunes como one, two o first. Pero las palabras más comunes son game, new, world. Entre otros también se encuentran palabras como play, explore, strategy, experience o pc.
+
+## Bar Chart Race
+![BarchartRace](figures/BarchartRace.PNG)
+Este gráfico permite ver la evolución de los idiomas más comunes en Steam a lo largo del tiempo. En este caso se mostrarán a cada año los 16 idiomas más comunes y se ha hecho un gráfico de evolución de estos idiomas desde 1997 hasta 2025.
+
+Conclusiones: Vemos un comienzo lento de aparición de juegos e idiomas en la plataforma de Steam que al ser una empresa estadounidense y contener videojuegos es normal que los idiomas más comunes de plataforma fuese desde el principio el inglés. Sin embargo, es interesante ver cómo los idiomas asiáticos como el chino apareció prácticamente de la nada en 2020 para colocarse en la segunda posición superando al alemán y al resto de lenguas romances. En 2015 el alemán y el francés se colocan en la tercera y cuarta posición respectivamente, seguidos del ruso, el español localizado en España y el japonés. En 2020 el español se coloca en la tercera posición superando al alemán y al francés. En 2025 el español se coloca en la segunda posición superando al alemán y al francés. También paso similar con el ruso que se encontraba más abajo desde el principio. La aparición constante de las lenguas romances son menos descriptivas de la tendencia pero de este gráfico se puede observar que la mayor cantidad de los esfuerzos de traducción se quedan en el inglés, lenguas romances y recientemente ha irrumpido el gigante asiático en el desarrollo o traducción de videojuegos. 

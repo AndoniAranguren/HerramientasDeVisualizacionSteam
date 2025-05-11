@@ -1,0 +1,1326 @@
+date,name,category,value
+1997-01-01,english,anglo,2
+1998-01-01,english,anglo,3
+1998-01-01,french,latin,1
+1998-01-01,german,anglo,1
+1998-01-01,italian,latin,1
+1998-01-01,spanish - spain,latin,1
+1998-01-01,simplified chinese,chinese,1
+1998-01-01,traditional chinese,chinese,1
+1998-01-01,korean,korean,1
+1999-01-01,english,anglo,6
+1999-01-01,french,latin,3
+1999-01-01,german,anglo,3
+1999-01-01,italian,latin,2
+1999-01-01,spanish - spain,latin,2
+1999-01-01,korean,korean,3
+1999-01-01,russian,slavic,1
+1999-01-01,simplified chinese,chinese,2
+1999-01-01,traditional chinese,chinese,2
+2000-01-01,english,anglo,8
+2000-01-01,french,latin,5
+2000-01-01,german,anglo,5
+2000-01-01,italian,latin,4
+2000-01-01,spanish - spain,latin,4
+2000-01-01,korean,korean,5
+2000-01-01,russian,slavic,2
+2000-01-01,simplified chinese,chinese,4
+2000-01-01,traditional chinese,chinese,4
+2001-01-01,english,anglo,12
+2001-01-01,french,latin,7
+2001-01-01,german,anglo,8
+2001-01-01,italian,latin,5
+2001-01-01,spanish - spain,latin,6
+2001-01-01,korean,korean,6
+2001-01-01,russian,slavic,3
+2001-01-01,simplified chinese,chinese,5
+2001-01-01,traditional chinese,chinese,5
+2001-01-01,polish,other,1
+2002-01-01,english,anglo,13
+2002-01-01,french,latin,8
+2002-01-01,german,anglo,9
+2002-01-01,italian,latin,6
+2002-01-01,spanish - spain,latin,7
+2002-01-01,czech,czech,1
+2002-01-01,polish,other,2
+2002-01-01,russian,slavic,4
+2002-01-01,korean,korean,6
+2002-01-01,simplified chinese,chinese,5
+2002-01-01,traditional chinese,chinese,5
+2003-01-01,english,anglo,16
+2003-01-01,french,latin,10
+2003-01-01,german,anglo,11
+2003-01-01,italian,latin,8
+2003-01-01,spanish - spain,latin,9
+2003-01-01,czech,czech,1
+2003-01-01,polish,other,3
+2003-01-01,russian,slavic,4
+2003-01-01,korean,korean,6
+2003-01-01,simplified chinese,chinese,5
+2003-01-01,traditional chinese,chinese,5
+2004-01-01,english,anglo,23
+2004-01-01,french,latin,15
+2004-01-01,german,anglo,16
+2004-01-01,italian,latin,13
+2004-01-01,spanish - spain,latin,14
+2004-01-01,simplified chinese,chinese,10
+2004-01-01,traditional chinese,chinese,10
+2004-01-01,korean,korean,11
+2004-01-01,czech,czech,1
+2004-01-01,polish,other,4
+2004-01-01,russian,slavic,7
+2004-01-01,japanese,japanese,3
+2004-01-01,thai,other,3
+2004-01-01,turkish,turkish,1
+2004-01-01,dutch,anglo,1
+2004-01-01,danish,nordic,1
+2004-01-01,finnish,nordic,1
+2004-01-01,norwegian,nordic,1
+2004-01-01,portuguese,latin,1
+2004-01-01,swedish,nordic,1
+2005-01-01,english,anglo,30
+2005-01-01,french,latin,19
+2005-01-01,german,anglo,20
+2005-01-01,italian,latin,17
+2005-01-01,spanish - spain,latin,18
+2005-01-01,polish,other,5
+2005-01-01,russian,slavic,9
+2005-01-01,simplified chinese,chinese,11
+2005-01-01,traditional chinese,chinese,11
+2005-01-01,korean,korean,12
+2005-01-01,czech,czech,1
+2005-01-01,japanese,japanese,4
+2005-01-01,thai,other,3
+2005-01-01,turkish,turkish,1
+2005-01-01,dutch,anglo,1
+2005-01-01,danish,nordic,1
+2005-01-01,finnish,nordic,1
+2005-01-01,norwegian,nordic,1
+2005-01-01,portuguese,latin,1
+2005-01-01,swedish,nordic,1
+2006-01-01,english,anglo,99
+2006-01-01,french,latin,47
+2006-01-01,italian,latin,41
+2006-01-01,german,anglo,46
+2006-01-01,spanish - spain,latin,41
+2006-01-01,bulgarian,slavic,1
+2006-01-01,czech,czech,7
+2006-01-01,danish,nordic,3
+2006-01-01,dutch,anglo,4
+2006-01-01,finnish,nordic,3
+2006-01-01,greek,greek,1
+2006-01-01,hungarian,hungarian,2
+2006-01-01,japanese,japanese,10
+2006-01-01,korean,korean,16
+2006-01-01,norwegian,nordic,3
+2006-01-01,polish,other,16
+2006-01-01,portuguese,latin,3
+2006-01-01,portuguese - brazil,latin,1
+2006-01-01,russian,slavic,23
+2006-01-01,simplified chinese,chinese,15
+2006-01-01,swedish,nordic,3
+2006-01-01,thai,other,5
+2006-01-01,traditional chinese,chinese,16
+2006-01-01,turkish,turkish,2
+2006-01-01,ukrainian,slavic,1
+2007-01-01,english,anglo,208
+2007-01-01,french,latin,101
+2007-01-01,german,anglo,98
+2007-01-01,italian,latin,86
+2007-01-01,spanish - spain,latin,87
+2007-01-01,bulgarian,slavic,2
+2007-01-01,czech,czech,9
+2007-01-01,danish,nordic,7
+2007-01-01,dutch,anglo,8
+2007-01-01,finnish,nordic,7
+2007-01-01,greek,greek,2
+2007-01-01,hungarian,hungarian,4
+2007-01-01,japanese,japanese,16
+2007-01-01,korean,korean,23
+2007-01-01,norwegian,nordic,7
+2007-01-01,polish,other,22
+2007-01-01,portuguese,latin,7
+2007-01-01,portuguese - brazil,latin,2
+2007-01-01,russian,slavic,33
+2007-01-01,simplified chinese,chinese,19
+2007-01-01,swedish,nordic,7
+2007-01-01,thai,other,6
+2007-01-01,traditional chinese,chinese,21
+2007-01-01,turkish,turkish,3
+2007-01-01,ukrainian,slavic,3
+2007-01-01,romanian,latin,1
+2008-01-01,english,anglo,382
+2008-01-01,french,latin,175
+2008-01-01,german,anglo,166
+2008-01-01,italian,latin,145
+2008-01-01,spanish - spain,latin,151
+2008-01-01,bulgarian,slavic,2
+2008-01-01,czech,czech,21
+2008-01-01,danish,nordic,12
+2008-01-01,dutch,anglo,17
+2008-01-01,finnish,nordic,12
+2008-01-01,greek,greek,2
+2008-01-01,hungarian,hungarian,12
+2008-01-01,japanese,japanese,22
+2008-01-01,korean,korean,27
+2008-01-01,norwegian,nordic,11
+2008-01-01,polish,other,38
+2008-01-01,portuguese,latin,12
+2008-01-01,portuguese - brazil,latin,4
+2008-01-01,russian,slavic,54
+2008-01-01,simplified chinese,chinese,24
+2008-01-01,swedish,nordic,15
+2008-01-01,thai,other,6
+2008-01-01,traditional chinese,chinese,26
+2008-01-01,turkish,turkish,3
+2008-01-01,ukrainian,slavic,4
+2008-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2008-01-01,traditional chinese (text only),other,1
+2008-01-01,romanian,latin,1
+2008-01-01,slovakian,other,2
+2008-01-01,spanish - latin america,latin,1
+2008-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2008-01-01,japanese (all with full audio support),other,1
+2009-01-01,english,anglo,714
+2009-01-01,french,latin,322
+2009-01-01,german,anglo,309
+2009-01-01,italian,latin,265
+2009-01-01,spanish - spain,latin,274
+2009-01-01,german;,other,2
+2009-01-01,japanese,japanese,41
+2009-01-01,bulgarian,slavic,5
+2009-01-01,czech,czech,38
+2009-01-01,danish,nordic,18
+2009-01-01,dutch,anglo,27
+2009-01-01,finnish,nordic,16
+2009-01-01,greek,greek,4
+2009-01-01,hungarian,hungarian,24
+2009-01-01,korean,korean,35
+2009-01-01,norwegian,nordic,15
+2009-01-01,polish,other,76
+2009-01-01,portuguese,latin,23
+2009-01-01,portuguese - brazil,latin,9
+2009-01-01,russian,slavic,111
+2009-01-01,simplified chinese,chinese,29
+2009-01-01,swedish,nordic,24
+2009-01-01,thai,other,9
+2009-01-01,traditional chinese,chinese,36
+2009-01-01,turkish,turkish,6
+2009-01-01,ukrainian,slavic,6
+2009-01-01,#lang_français,other,1
+2009-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2009-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2009-01-01,traditional chinese (text only),other,1
+2009-01-01,englishb/b,other,3
+2009-01-01,frenchb/b,other,1
+2009-01-01,italianb/b,other,1
+2009-01-01,germanb/b,other,2
+2009-01-01,spanish - spainb/b,other,1
+2009-01-01,koreanb/b,other,1
+2009-01-01,japanese \r\n\r\nb/b,other,1
+2009-01-01,romanian,latin,3
+2009-01-01,italian \r\n\r\nb/b,other,1
+2009-01-01,english (full audio),other,3
+2009-01-01,spanish - spain\r\nb/b,other,1
+2009-01-01,spanish - latin america,latin,3
+2009-01-01,vietnamese,other,2
+2009-01-01,arabic,arabic,1
+2009-01-01,slovakian,other,2
+2009-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2009-01-01,japanese (all with full audio support),other,1
+2009-01-01,english dutch  english,other,1
+2010-01-01,english,anglo,1014
+2010-01-01,french,latin,446
+2010-01-01,german,anglo,451
+2010-01-01,italian,latin,372
+2010-01-01,japanese,japanese,65
+2010-01-01,spanish - spain,latin,389
+2010-01-01,\r\nfrench,other,1
+2010-01-01,\r\ngerman,other,1
+2010-01-01,russian,slavic,156
+2010-01-01,korean,korean,46
+2010-01-01,polish,other,111
+2010-01-01,german;,other,2
+2010-01-01,bulgarian,slavic,6
+2010-01-01,czech,czech,50
+2010-01-01,danish,nordic,24
+2010-01-01,dutch,anglo,42
+2010-01-01,finnish,nordic,17
+2010-01-01,greek,greek,5
+2010-01-01,hungarian,hungarian,31
+2010-01-01,norwegian,nordic,16
+2010-01-01,portuguese,latin,28
+2010-01-01,portuguese - brazil,latin,10
+2010-01-01,simplified chinese,chinese,35
+2010-01-01,swedish,nordic,31
+2010-01-01,thai,other,10
+2010-01-01,traditional chinese,chinese,47
+2010-01-01,turkish,turkish,8
+2010-01-01,ukrainian,slavic,8
+2010-01-01,#lang_français,other,1
+2010-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2010-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2010-01-01,traditional chinese (text only),other,1
+2010-01-01,englishb/b,other,3
+2010-01-01,frenchb/b,other,1
+2010-01-01,italianb/b,other,1
+2010-01-01,germanb/b,other,2
+2010-01-01,spanish - spainb/b,other,1
+2010-01-01,koreanb/b,other,1
+2010-01-01,japanese \r\n\r\nb/b,other,1
+2010-01-01,romanian,latin,4
+2010-01-01,italian \r\n\r\nb/b,other,1
+2010-01-01,english (full audio),other,3
+2010-01-01,spanish - spain\r\nb/b,other,1
+2010-01-01,spanish - latin america,latin,4
+2010-01-01,vietnamese,other,3
+2010-01-01,arabic,arabic,1
+2010-01-01,slovakian,other,2
+2010-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2010-01-01,japanese (all with full audio support),other,1
+2010-01-01,english dutch  english,other,1
+2011-01-01,english,anglo,1300
+2011-01-01,french,latin,600
+2011-01-01,german,anglo,618
+2011-01-01,italian,latin,499
+2011-01-01,japanese,japanese,97
+2011-01-01,spanish - spain,latin,531
+2011-01-01,\r\nfrench,other,1
+2011-01-01,\r\ngerman,other,1
+2011-01-01,polish,other,173
+2011-01-01,russian,slavic,225
+2011-01-01,korean,korean,65
+2011-01-01,german;,other,2
+2011-01-01,bulgarian,slavic,8
+2011-01-01,czech,czech,79
+2011-01-01,danish,nordic,34
+2011-01-01,dutch,anglo,60
+2011-01-01,finnish,nordic,24
+2011-01-01,greek,greek,6
+2011-01-01,hungarian,hungarian,41
+2011-01-01,norwegian,nordic,24
+2011-01-01,portuguese,latin,45
+2011-01-01,portuguese - brazil,latin,18
+2011-01-01,simplified chinese,chinese,47
+2011-01-01,swedish,nordic,44
+2011-01-01,thai,other,13
+2011-01-01,traditional chinese,chinese,66
+2011-01-01,turkish,turkish,19
+2011-01-01,ukrainian,slavic,10
+2011-01-01,spanish - latin america,latin,6
+2011-01-01,#lang_français,other,1
+2011-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2011-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2011-01-01,traditional chinese (text only),other,1
+2011-01-01,englishb/b,other,3
+2011-01-01,frenchb/b,other,1
+2011-01-01,italianb/b,other,1
+2011-01-01,germanb/b,other,2
+2011-01-01,spanish - spainb/b,other,1
+2011-01-01,koreanb/b,other,1
+2011-01-01,japanese \r\n\r\nb/b,other,1
+2011-01-01,romanian,latin,7
+2011-01-01,italian \r\n\r\nb/b,other,1
+2011-01-01,english (full audio),other,3
+2011-01-01,spanish - spain\r\nb/b,other,1
+2011-01-01,vietnamese,other,3
+2011-01-01,arabic,arabic,2
+2011-01-01,slovakian,other,2
+2011-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2011-01-01,japanese (all with full audio support),other,1
+2011-01-01,english dutch  english,other,1
+2011-01-01,portuguese - portugal,other,1
+2012-01-01,english,anglo,1653
+2012-01-01,french,latin,772
+2012-01-01,german,anglo,806
+2012-01-01,italian,latin,646
+2012-01-01,japanese,japanese,157
+2012-01-01,spanish - spain,latin,690
+2012-01-01,\r\nfrench,other,1
+2012-01-01,\r\ngerman,other,1
+2012-01-01,polish,other,244
+2012-01-01,russian,slavic,320
+2012-01-01,korean,korean,91
+2012-01-01,german;,other,2
+2012-01-01,bulgarian,slavic,12
+2012-01-01,czech,czech,106
+2012-01-01,danish,nordic,44
+2012-01-01,dutch,anglo,79
+2012-01-01,finnish,nordic,32
+2012-01-01,greek,greek,10
+2012-01-01,hungarian,hungarian,56
+2012-01-01,norwegian,nordic,30
+2012-01-01,portuguese,latin,63
+2012-01-01,portuguese - brazil,latin,43
+2012-01-01,simplified chinese,chinese,69
+2012-01-01,swedish,nordic,55
+2012-01-01,thai,other,15
+2012-01-01,traditional chinese,chinese,89
+2012-01-01,turkish,turkish,34
+2012-01-01,ukrainian,slavic,13
+2012-01-01,spanish - latin america,latin,9
+2012-01-01,#lang_français,other,1
+2012-01-01,romanian,latin,12
+2012-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2012-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2012-01-01,arabic,arabic,4
+2012-01-01,traditional chinese (text only),other,1
+2012-01-01,englishb/b,other,4
+2012-01-01,frenchb/b,other,1
+2012-01-01,italianb/b,other,1
+2012-01-01,germanb/b,other,2
+2012-01-01,spanish - spainb/b,other,1
+2012-01-01,koreanb/b,other,1
+2012-01-01,japanese \r\n\r\nb/b,other,1
+2012-01-01,italian \r\n\r\nb/b,other,1
+2012-01-01,english (full audio),other,3
+2012-01-01,russian\r\nb/b,other,1
+2012-01-01,spanish - spain\r\nb/b,other,1
+2012-01-01,vietnamese,other,4
+2012-01-01,slovakian,other,2
+2012-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2012-01-01,japanese (all with full audio support),other,1
+2012-01-01,english dutch  english,other,1
+2012-01-01,portuguese - portugal,other,1
+2013-01-01,english,anglo,2143
+2013-01-01,french,latin,1041
+2013-01-01,german,anglo,1100
+2013-01-01,italian,latin,877
+2013-01-01,japanese,japanese,246
+2013-01-01,spanish - spain,latin,929
+2013-01-01,polish,other,369
+2013-01-01,russian,slavic,505
+2013-01-01,portuguese - brazil,latin,136
+2013-01-01,\r\nfrench,other,1
+2013-01-01,\r\ngerman,other,1
+2013-01-01,simplified chinese,chinese,132
+2013-01-01,czech,czech,148
+2013-01-01,korean,korean,146
+2013-01-01,german;,other,2
+2013-01-01,bulgarian,slavic,17
+2013-01-01,danish,nordic,65
+2013-01-01,dutch,anglo,124
+2013-01-01,finnish,nordic,51
+2013-01-01,greek,greek,19
+2013-01-01,hungarian,hungarian,95
+2013-01-01,norwegian,nordic,52
+2013-01-01,portuguese,latin,104
+2013-01-01,swedish,nordic,82
+2013-01-01,thai,other,22
+2013-01-01,traditional chinese,chinese,127
+2013-01-01,turkish,turkish,68
+2013-01-01,ukrainian,slavic,30
+2013-01-01,spanish - latin america,latin,18
+2013-01-01,#lang_français,other,1
+2013-01-01,romanian,latin,24
+2013-01-01,arabic,arabic,15
+2013-01-01,vietnamese,other,6
+2013-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2013-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2013-01-01,traditional chinese (text only),other,1
+2013-01-01,englishb/b,other,4
+2013-01-01,frenchb/b,other,1
+2013-01-01,italianb/b,other,1
+2013-01-01,germanb/b,other,2
+2013-01-01,spanish - spainb/b,other,1
+2013-01-01,koreanb/b,other,1
+2013-01-01,japanese \r\n\r\nb/b,other,1
+2013-01-01,italian \r\n\r\nb/b,other,1
+2013-01-01,english (full audio),other,3
+2013-01-01,russian\r\nb/b,other,1
+2013-01-01,spanish - spain\r\nb/b,other,1
+2013-01-01,slovakian,other,2
+2013-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2013-01-01,japanese (all with full audio support),other,1
+2013-01-01,english dutch  english,other,1
+2013-01-01,portuguese - portugal,other,1
+2014-01-01,english,anglo,3765
+2014-01-01,polish,other,618
+2014-01-01,french,latin,1645
+2014-01-01,italian,latin,1348
+2014-01-01,german,anglo,1754
+2014-01-01,spanish - spain,latin,1473
+2014-01-01,portuguese,latin,205
+2014-01-01,russian,slavic,930
+2014-01-01,japanese,japanese,462
+2014-01-01,portuguese - brazil,latin,334
+2014-01-01,dutch,anglo,274
+2014-01-01,simplified chinese,chinese,284
+2014-01-01,\r\nfrench,other,1
+2014-01-01,\r\ngerman,other,1
+2014-01-01,czech,czech,245
+2014-01-01,danish,nordic,106
+2014-01-01,norwegian,nordic,94
+2014-01-01,swedish,nordic,146
+2014-01-01,turkish,turkish,130
+2014-01-01,korean,korean,272
+2014-01-01,finnish,nordic,83
+2014-01-01,greek,greek,35
+2014-01-01,hungarian,hungarian,151
+2014-01-01,traditional chinese,chinese,203
+2014-01-01,german;,other,2
+2014-01-01,bulgarian,slavic,31
+2014-01-01,thai,other,36
+2014-01-01,ukrainian,slavic,54
+2014-01-01,arabic,arabic,27
+2014-01-01,romanian,latin,40
+2014-01-01,spanish - latin america,latin,29
+2014-01-01,#lang_français,other,1
+2014-01-01,vietnamese,other,8
+2014-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2014-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2014-01-01,traditional chinese (text only),other,1
+2014-01-01,englishb/b,other,4
+2014-01-01,frenchb/b,other,1
+2014-01-01,italianb/b,other,1
+2014-01-01,germanb/b,other,2
+2014-01-01,spanish - spainb/b,other,1
+2014-01-01,koreanb/b,other,1
+2014-01-01,japanese \r\n\r\nb/b,other,1
+2014-01-01,italian \r\n\r\nb/b,other,1
+2014-01-01,english (full audio),other,3
+2014-01-01,russian\r\nb/b,other,1
+2014-01-01,spanish - spain\r\nb/b,other,1
+2014-01-01,slovakian,other,2
+2014-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2014-01-01,japanese (all with full audio support),other,1
+2014-01-01,english dutch  english,other,1
+2014-01-01,portuguese - portugal,other,3
+2015-01-01,english,anglo,6431
+2015-01-01,polish,other,920
+2015-01-01,french,latin,2436
+2015-01-01,italian,latin,1945
+2015-01-01,german,anglo,2608
+2015-01-01,spanish - spain,latin,2225
+2015-01-01,portuguese,latin,389
+2015-01-01,russian,slavic,1563
+2015-01-01,japanese,japanese,883
+2015-01-01,turkish,turkish,258
+2015-01-01,czech,czech,374
+2015-01-01,portuguese - brazil,latin,675
+2015-01-01,hungarian,hungarian,231
+2015-01-01,dutch,anglo,444
+2015-01-01,ukrainian,slavic,113
+2015-01-01,danish,nordic,169
+2015-01-01,simplified chinese,chinese,566
+2015-01-01,korean,korean,490
+2015-01-01,traditional chinese,chinese,358
+2015-01-01,\r\nfrench,other,1
+2015-01-01,\r\ngerman,other,1
+2015-01-01,swedish,nordic,235
+2015-01-01,arabic,arabic,66
+2015-01-01,norwegian,nordic,137
+2015-01-01,finnish,nordic,131
+2015-01-01,greek,greek,67
+2015-01-01,romanian,latin,83
+2015-01-01,german;,other,2
+2015-01-01,bulgarian,slavic,58
+2015-01-01,thai,other,72
+2015-01-01,spanish - latin america,latin,50
+2015-01-01,#lang_français,other,1
+2015-01-01,vietnamese,other,15
+2015-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2015-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2015-01-01,traditional chinese (text only),other,1
+2015-01-01,englishb/b,other,4
+2015-01-01,frenchb/b,other,1
+2015-01-01,italianb/b,other,1
+2015-01-01,germanb/b,other,2
+2015-01-01,spanish - spainb/b,other,1
+2015-01-01,koreanb/b,other,1
+2015-01-01,japanese \r\n\r\nb/b,other,1
+2015-01-01,italian \r\n\r\nb/b,other,1
+2015-01-01,english (full audio),other,3
+2015-01-01,russian\r\nb/b,other,1
+2015-01-01,spanish - spain\r\nb/b,other,1
+2015-01-01,slovakian,other,2
+2015-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2015-01-01,japanese (all with full audio support),other,1
+2015-01-01,english dutch  english,other,1
+2015-01-01,portuguese - portugal,other,11
+2016-01-01,english,anglo,10815
+2016-01-01,polish,other,1333
+2016-01-01,french,latin,3492
+2016-01-01,italian,latin,2690
+2016-01-01,german,anglo,3725
+2016-01-01,spanish - spain,latin,3215
+2016-01-01,portuguese,latin,622
+2016-01-01,russian,slavic,2527
+2016-01-01,japanese,japanese,1517
+2016-01-01,turkish,turkish,459
+2016-01-01,czech,czech,530
+2016-01-01,portuguese - brazil,latin,1177
+2016-01-01,hungarian,hungarian,353
+2016-01-01,dutch,anglo,687
+2016-01-01,ukrainian,slavic,241
+2016-01-01,danish,nordic,261
+2016-01-01,simplified chinese,chinese,1203
+2016-01-01,korean,korean,838
+2016-01-01,traditional chinese,chinese,663
+2016-01-01,\r\nfrench,other,1
+2016-01-01,\r\ngerman,other,1
+2016-01-01,swedish,nordic,367
+2016-01-01,arabic,arabic,145
+2016-01-01,norwegian,nordic,222
+2016-01-01,bulgarian,slavic,110
+2016-01-01,finnish,nordic,214
+2016-01-01,greek,greek,137
+2016-01-01,romanian,latin,151
+2016-01-01,thai,other,136
+2016-01-01,german;,other,2
+2016-01-01,spanish - latin america,latin,86
+2016-01-01,vietnamese,other,23
+2016-01-01,#lang_français,other,1
+2016-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2016-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2016-01-01,traditional chinese (text only),other,1
+2016-01-01,englishb/b,other,4
+2016-01-01,frenchb/b,other,1
+2016-01-01,italianb/b,other,1
+2016-01-01,germanb/b,other,2
+2016-01-01,spanish - spainb/b,other,1
+2016-01-01,koreanb/b,other,1
+2016-01-01,japanese \r\n\r\nb/b,other,1
+2016-01-01,italian \r\n\r\nb/b,other,1
+2016-01-01,english (full audio),other,3
+2016-01-01,russian\r\nb/b,other,1
+2016-01-01,spanish - spain\r\nb/b,other,1
+2016-01-01,slovakian,other,2
+2016-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2016-01-01,japanese (all with full audio support),other,1
+2016-01-01,english dutch  english,other,1
+2016-01-01,portuguese - portugal,other,14
+2017-01-01,english,anglo,17026
+2017-01-01,french,latin,4851
+2017-01-01,italian,latin,3627
+2017-01-01,german,anglo,5147
+2017-01-01,spanish - spain,latin,4481
+2017-01-01,japanese,japanese,2471
+2017-01-01,portuguese - brazil,latin,1841
+2017-01-01,russian,slavic,3848
+2017-01-01,simplified chinese,chinese,2406
+2017-01-01,traditional chinese,chinese,1222
+2017-01-01,polish,other,1825
+2017-01-01,portuguese,latin,1009
+2017-01-01,turkish,turkish,765
+2017-01-01,czech,czech,748
+2017-01-01,hungarian,hungarian,528
+2017-01-01,dutch,anglo,991
+2017-01-01,ukrainian,slavic,435
+2017-01-01,danish,nordic,410
+2017-01-01,korean,korean,1441
+2017-01-01,romanian,latin,274
+2017-01-01,\r\nfrench,other,1
+2017-01-01,\r\ngerman,other,1
+2017-01-01,swedish,nordic,568
+2017-01-01,arabic,arabic,311
+2017-01-01,finnish,nordic,353
+2017-01-01,norwegian,nordic,352
+2017-01-01,vietnamese,other,45
+2017-01-01,bulgarian,slavic,215
+2017-01-01,greek,greek,274
+2017-01-01,thai,other,276
+2017-01-01,german;,other,2
+2017-01-01,spanish - latin america,latin,157
+2017-01-01,#lang_français,other,1
+2017-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2017-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2017-01-01,traditional chinese (text only),other,1
+2017-01-01,englishb/b,other,4
+2017-01-01,frenchb/b,other,1
+2017-01-01,italianb/b,other,1
+2017-01-01,germanb/b,other,2
+2017-01-01,spanish - spainb/b,other,1
+2017-01-01,koreanb/b,other,1
+2017-01-01,japanese \r\n\r\nb/b,other,1
+2017-01-01,italian \r\n\r\nb/b,other,1
+2017-01-01,english (full audio),other,3
+2017-01-01,russian\r\nb/b,other,1
+2017-01-01,spanish - spain\r\nb/b,other,1
+2017-01-01,slovakian,other,2
+2017-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2017-01-01,japanese (all with full audio support),other,1
+2017-01-01,english dutch  english,other,1
+2017-01-01,portuguese - portugal,other,23
+2018-01-01,english,anglo,24972
+2018-01-01,french,latin,6512
+2018-01-01,italian,latin,4754
+2018-01-01,german,anglo,6928
+2018-01-01,spanish - spain,latin,6022
+2018-01-01,japanese,japanese,3764
+2018-01-01,portuguese - brazil,latin,2702
+2018-01-01,russian,slavic,5712
+2018-01-01,simplified chinese,chinese,4286
+2018-01-01,traditional chinese,chinese,2094
+2018-01-01,polish,other,2480
+2018-01-01,portuguese,latin,1505
+2018-01-01,turkish,turkish,1231
+2018-01-01,czech,czech,1047
+2018-01-01,hungarian,hungarian,778
+2018-01-01,dutch,anglo,1373
+2018-01-01,ukrainian,slavic,718
+2018-01-01,danish,nordic,642
+2018-01-01,korean,korean,2315
+2018-01-01,arabic,arabic,578
+2018-01-01,romanian,latin,474
+2018-01-01,spanish - latin america,latin,387
+2018-01-01,thai,other,516
+2018-01-01,swedish,nordic,853
+2018-01-01,vietnamese,other,134
+2018-01-01,\r\nfrench,other,1
+2018-01-01,\r\ngerman,other,1
+2018-01-01,finnish,nordic,581
+2018-01-01,norwegian,nordic,574
+2018-01-01,bulgarian,slavic,391
+2018-01-01,greek,greek,477
+2018-01-01,german;,other,2
+2018-01-01,#lang_français,other,1
+2018-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2018-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2018-01-01,traditional chinese (text only),other,1
+2018-01-01,englishb/b,other,4
+2018-01-01,frenchb/b,other,1
+2018-01-01,italianb/b,other,1
+2018-01-01,germanb/b,other,2
+2018-01-01,spanish - spainb/b,other,1
+2018-01-01,koreanb/b,other,1
+2018-01-01,japanese \r\n\r\nb/b,other,1
+2018-01-01,italian \r\n\r\nb/b,other,1
+2018-01-01,english (full audio),other,3
+2018-01-01,russian\r\nb/b,other,1
+2018-01-01,spanish - spain\r\nb/b,other,1
+2018-01-01,slovakian,other,2
+2018-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2018-01-01,japanese (all with full audio support),other,1
+2018-01-01,english dutch  english,other,1
+2018-01-01,portuguese - portugal,other,125
+2019-01-01,english,anglo,32386
+2019-01-01,french,latin,8162
+2019-01-01,italian,latin,5846
+2019-01-01,german,anglo,8667
+2019-01-01,spanish - spain,latin,7505
+2019-01-01,japanese,japanese,5228
+2019-01-01,portuguese - brazil,latin,3576
+2019-01-01,russian,slavic,7495
+2019-01-01,simplified chinese,chinese,6295
+2019-01-01,traditional chinese,chinese,3107
+2019-01-01,polish,other,3175
+2019-01-01,portuguese,latin,2066
+2019-01-01,turkish,turkish,1756
+2019-01-01,czech,czech,1404
+2019-01-01,hungarian,hungarian,1105
+2019-01-01,dutch,anglo,1854
+2019-01-01,ukrainian,slavic,1056
+2019-01-01,danish,nordic,949
+2019-01-01,spanish - latin america,latin,937
+2019-01-01,korean,korean,3268
+2019-01-01,arabic,arabic,904
+2019-01-01,romanian,latin,748
+2019-01-01,finnish,nordic,879
+2019-01-01,thai,other,829
+2019-01-01,swedish,nordic,1196
+2019-01-01,vietnamese,other,419
+2019-01-01,greek,greek,768
+2019-01-01,\r\nfrench,other,1
+2019-01-01,\r\ngerman,other,1
+2019-01-01,bulgarian,slavic,651
+2019-01-01,norwegian,nordic,867
+2019-01-01,german;,other,2
+2019-01-01,#lang_français,other,1
+2019-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2019-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2019-01-01,traditional chinese (text only),other,1
+2019-01-01,englishb/b,other,4
+2019-01-01,frenchb/b,other,1
+2019-01-01,italianb/b,other,1
+2019-01-01,germanb/b,other,2
+2019-01-01,spanish - spainb/b,other,1
+2019-01-01,koreanb/b,other,1
+2019-01-01,japanese \r\n\r\nb/b,other,1
+2019-01-01,italian \r\n\r\nb/b,other,1
+2019-01-01,english (full audio),other,3
+2019-01-01,russian\r\nb/b,other,1
+2019-01-01,spanish - spain\r\nb/b,other,1
+2019-01-01,slovakian,other,2
+2019-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2019-01-01,japanese (all with full audio support),other,1
+2019-01-01,english dutch  english,other,1
+2019-01-01,portuguese - portugal,other,142
+2020-01-01,english,anglo,41521
+2020-01-01,french,latin,10196
+2020-01-01,italian,latin,7246
+2020-01-01,german,anglo,10749
+2020-01-01,spanish - spain,latin,9352
+2020-01-01,japanese,japanese,7147
+2020-01-01,portuguese - brazil,latin,4698
+2020-01-01,russian,slavic,9661
+2020-01-01,simplified chinese,chinese,8775
+2020-01-01,traditional chinese,chinese,4317
+2020-01-01,korean,korean,4466
+2020-01-01,portuguese,latin,2763
+2020-01-01,polish,other,4048
+2020-01-01,turkish,turkish,2439
+2020-01-01,czech,czech,1778
+2020-01-01,hungarian,hungarian,1437
+2020-01-01,dutch,anglo,2368
+2020-01-01,ukrainian,slavic,1395
+2020-01-01,danish,nordic,1259
+2020-01-01,spanish - latin america,latin,1617
+2020-01-01,arabic,arabic,1258
+2020-01-01,romanian,latin,1018
+2020-01-01,swedish,nordic,1544
+2020-01-01,thai,other,1157
+2020-01-01,finnish,nordic,1172
+2020-01-01,vietnamese,other,706
+2020-01-01,greek,greek,1042
+2020-01-01,\r\nfrench,other,1
+2020-01-01,\r\ngerman,other,1
+2020-01-01,bulgarian,slavic,892
+2020-01-01,norwegian,nordic,1163
+2020-01-01,german;,other,2
+2020-01-01,#lang_français,other,1
+2020-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2020-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2020-01-01,traditional chinese (text only),other,1
+2020-01-01,englishb/b,other,4
+2020-01-01,frenchb/b,other,1
+2020-01-01,italianb/b,other,1
+2020-01-01,germanb/b,other,2
+2020-01-01,spanish - spainb/b,other,1
+2020-01-01,koreanb/b,other,1
+2020-01-01,japanese \r\n\r\nb/b,other,1
+2020-01-01,italian \r\n\r\nb/b,other,1
+2020-01-01,english (full audio),other,3
+2020-01-01,russian\r\nb/b,other,1
+2020-01-01,spanish - spain\r\nb/b,other,1
+2020-01-01,slovakian,other,2
+2020-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2020-01-01,japanese (all with full audio support),other,1
+2020-01-01,english dutch  english,other,1
+2020-01-01,portuguese - portugal,other,156
+2021-01-01,english,anglo,52522
+2021-01-01,french,latin,12639
+2021-01-01,italian,latin,8847
+2021-01-01,german,anglo,13211
+2021-01-01,spanish - spain,latin,11566
+2021-01-01,japanese,japanese,9468
+2021-01-01,portuguese - brazil,latin,6196
+2021-01-01,russian,slavic,12286
+2021-01-01,simplified chinese,chinese,11776
+2021-01-01,traditional chinese,chinese,5764
+2021-01-01,korean,korean,5967
+2021-01-01,portuguese,latin,3659
+2021-01-01,polish,other,5098
+2021-01-01,turkish,turkish,3337
+2021-01-01,czech,czech,2268
+2021-01-01,hungarian,hungarian,1869
+2021-01-01,dutch,anglo,2967
+2021-01-01,ukrainian,slavic,1839
+2021-01-01,danish,nordic,1670
+2021-01-01,spanish - latin america,latin,2483
+2021-01-01,arabic,arabic,1745
+2021-01-01,romanian,latin,1406
+2021-01-01,thai,other,1632
+2021-01-01,finnish,nordic,1566
+2021-01-01,norwegian,nordic,1566
+2021-01-01,swedish,nordic,1982
+2021-01-01,vietnamese,other,1104
+2021-01-01,greek,greek,1415
+2021-01-01,\r\nfrench,other,1
+2021-01-01,\r\ngerman,other,1
+2021-01-01,bulgarian,slavic,1242
+2021-01-01,german;,other,2
+2021-01-01,#lang_français,other,1
+2021-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2021-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2021-01-01,traditional chinese (text only),other,1
+2021-01-01,englishb/b,other,4
+2021-01-01,frenchb/b,other,1
+2021-01-01,italianb/b,other,1
+2021-01-01,germanb/b,other,2
+2021-01-01,spanish - spainb/b,other,1
+2021-01-01,koreanb/b,other,1
+2021-01-01,japanese \r\n\r\nb/b,other,1
+2021-01-01,italian \r\n\r\nb/b,other,1
+2021-01-01,english (full audio),other,3
+2021-01-01,russian\r\nb/b,other,1
+2021-01-01,spanish - spain\r\nb/b,other,1
+2021-01-01,slovakian,other,2
+2021-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2021-01-01,japanese (all with full audio support),other,1
+2021-01-01,english dutch  english,other,1
+2021-01-01,portuguese - portugal,other,160
+2022-01-01,english,anglo,64545
+2022-01-01,french,latin,14984
+2022-01-01,italian,latin,10424
+2022-01-01,german,anglo,15568
+2022-01-01,spanish - spain,latin,13746
+2022-01-01,japanese,japanese,11930
+2022-01-01,portuguese - brazil,latin,7630
+2022-01-01,russian,slavic,14571
+2022-01-01,simplified chinese,chinese,15065
+2022-01-01,traditional chinese,chinese,7393
+2022-01-01,korean,korean,7616
+2022-01-01,portuguese,latin,4173
+2022-01-01,danish,nordic,2073
+2022-01-01,polish,other,6097
+2022-01-01,turkish,turkish,4123
+2022-01-01,czech,czech,2715
+2022-01-01,hungarian,hungarian,2254
+2022-01-01,dutch,anglo,3551
+2022-01-01,ukrainian,slavic,2285
+2022-01-01,spanish - latin america,latin,3329
+2022-01-01,arabic,arabic,2181
+2022-01-01,norwegian,nordic,1960
+2022-01-01,romanian,latin,1765
+2022-01-01,swedish,nordic,2431
+2022-01-01,thai,other,2081
+2022-01-01,vietnamese,other,1491
+2022-01-01,finnish,nordic,1961
+2022-01-01,bulgarian,slavic,1572
+2022-01-01,greek,greek,1758
+2022-01-01,\r\nfrench,other,1
+2022-01-01,\r\ngerman,other,1
+2022-01-01,german;,other,2
+2022-01-01,#lang_français,other,1
+2022-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2022-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2022-01-01,traditional chinese (text only),other,1
+2022-01-01,englishb/b,other,4
+2022-01-01,frenchb/b,other,1
+2022-01-01,italianb/b,other,1
+2022-01-01,germanb/b,other,2
+2022-01-01,spanish - spainb/b,other,1
+2022-01-01,koreanb/b,other,1
+2022-01-01,japanese \r\n\r\nb/b,other,1
+2022-01-01,italian \r\n\r\nb/b,other,1
+2022-01-01,english (full audio),other,3
+2022-01-01,russian\r\nb/b,other,1
+2022-01-01,spanish - spain\r\nb/b,other,1
+2022-01-01,slovakian,other,2
+2022-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2022-01-01,japanese (all with full audio support),other,1
+2022-01-01,english dutch  english,other,1
+2022-01-01,portuguese - portugal,other,510
+2022-01-01,afrikaans,other,49
+2022-01-01,amharic,other,46
+2022-01-01,albanian,other,53
+2022-01-01,assamese,other,45
+2022-01-01,azerbaijani,other,52
+2022-01-01,bangla,other,55
+2022-01-01,basque,other,51
+2022-01-01,belarusian,other,49
+2022-01-01,bosnian,other,53
+2022-01-01,dari,other,44
+2022-01-01,indonesian,other,77
+2022-01-01,armenian,other,46
+2022-01-01,estonian,other,49
+2022-01-01,persian,other,53
+2022-01-01,filipino,other,49
+2022-01-01,welsh,other,47
+2022-01-01,galician,other,49
+2022-01-01,gujarati,other,46
+2022-01-01,georgian,other,51
+2022-01-01,hausa,other,47
+2022-01-01,hindi,other,62
+2022-01-01,croatian,other,50
+2022-01-01,kannada,other,46
+2022-01-01,catalan,other,57
+2022-01-01,kazakh,other,49
+2022-01-01,quechua,other,46
+2022-01-01,kiche,other,44
+2022-01-01,khmer,other,45
+2022-01-01,konkani,other,45
+2022-01-01,kyrgyz,other,47
+2022-01-01,latvian,other,54
+2022-01-01,lithuanian,other,52
+2022-01-01,luxembourgish,other,47
+2022-01-01,macedonian,other,47
+2022-01-01,malayalam,other,46
+2022-01-01,malay,other,60
+2022-01-01,maltese,other,47
+2022-01-01,maori,other,46
+2022-01-01,marathi,other,47
+2022-01-01,mongolian,other,47
+2022-01-01,nepali,other,46
+2022-01-01,odia,other,46
+2022-01-01,punjabi (gurmukhi),other,45
+2022-01-01,punjabi (shahmukhi),other,45
+2022-01-01,kinyarwanda,other,47
+2022-01-01,sinhala,other,46
+2022-01-01,sindhi,other,45
+2022-01-01,slovak,other,63
+2022-01-01,slovenian,other,48
+2022-01-01,sorani,other,45
+2022-01-01,sotho,other,47
+2022-01-01,swahili,other,47
+2022-01-01,serbian,other,55
+2022-01-01,tajik,other,47
+2022-01-01,tamil,other,46
+2022-01-01,tatar,other,47
+2022-01-01,telugu,other,46
+2022-01-01,tigrinya,other,45
+2022-01-01,tswana,other,44
+2022-01-01,turkmen,other,47
+2022-01-01,urdu,other,52
+2022-01-01,uyghur,other,46
+2022-01-01,valencian,other,44
+2022-01-01,wolof,other,44
+2022-01-01,xhosa,other,47
+2022-01-01,yoruba,other,47
+2022-01-01,zulu,other,47
+2022-01-01,cherokee,other,44
+2022-01-01,uzbek,other,52
+2022-01-01,hebrew,other,58
+2022-01-01,igbo,other,47
+2022-01-01,irish,other,48
+2022-01-01,scots,other,46
+2022-01-01,icelandic,other,48
+2023-01-01,english,anglo,77700
+2023-01-01,french,latin,17981
+2023-01-01,italian,latin,12533
+2023-01-01,german,anglo,18567
+2023-01-01,spanish - spain,latin,16624
+2023-01-01,japanese,japanese,15328
+2023-01-01,portuguese - brazil,latin,9464
+2023-01-01,russian,slavic,17298
+2023-01-01,simplified chinese,chinese,19205
+2023-01-01,traditional chinese,chinese,9525
+2023-01-01,korean,korean,9846
+2023-01-01,portuguese,latin,4173
+2023-01-01,danish,nordic,2734
+2023-01-01,polish,other,7506
+2023-01-01,turkish,turkish,5340
+2023-01-01,czech,czech,3443
+2023-01-01,hungarian,hungarian,2895
+2023-01-01,dutch,anglo,4473
+2023-01-01,ukrainian,slavic,3129
+2023-01-01,spanish - latin america,latin,4489
+2023-01-01,arabic,arabic,2863
+2023-01-01,norwegian,nordic,2647
+2023-01-01,romanian,latin,2386
+2023-01-01,swedish,nordic,3187
+2023-01-01,thai,other,2862
+2023-01-01,vietnamese,other,2198
+2023-01-01,finnish,nordic,2633
+2023-01-01,bulgarian,slavic,2169
+2023-01-01,greek,greek,2372
+2023-01-01,\r\nfrench,other,1
+2023-01-01,\r\ngerman,other,1
+2023-01-01,german;,other,2
+2023-01-01,#lang_français,other,1
+2023-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2023-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2023-01-01,traditional chinese (text only),other,1
+2023-01-01,englishb/b,other,4
+2023-01-01,frenchb/b,other,1
+2023-01-01,italianb/b,other,1
+2023-01-01,germanb/b,other,2
+2023-01-01,spanish - spainb/b,other,1
+2023-01-01,koreanb/b,other,1
+2023-01-01,japanese \r\n\r\nb/b,other,1
+2023-01-01,italian \r\n\r\nb/b,other,1
+2023-01-01,english (full audio),other,3
+2023-01-01,russian\r\nb/b,other,1
+2023-01-01,spanish - spain\r\nb/b,other,1
+2023-01-01,slovakian,other,2
+2023-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2023-01-01,japanese (all with full audio support),other,1
+2023-01-01,english dutch  english,other,1
+2023-01-01,portuguese - portugal,other,1793
+2023-01-01,afrikaans,other,370
+2023-01-01,amharic,other,357
+2023-01-01,albanian,other,371
+2023-01-01,assamese,other,358
+2023-01-01,azerbaijani,other,372
+2023-01-01,bangla,other,377
+2023-01-01,basque,other,377
+2023-01-01,belarusian,other,373
+2023-01-01,bosnian,other,369
+2023-01-01,dari,other,351
+2023-01-01,indonesian,other,595
+2023-01-01,armenian,other,360
+2023-01-01,estonian,other,377
+2023-01-01,persian,other,371
+2023-01-01,filipino,other,375
+2023-01-01,welsh,other,362
+2023-01-01,galician,other,371
+2023-01-01,gujarati,other,359
+2023-01-01,georgian,other,369
+2023-01-01,hausa,other,360
+2023-01-01,hindi,other,434
+2023-01-01,croatian,other,377
+2023-01-01,kannada,other,359
+2023-01-01,catalan,other,415
+2023-01-01,kazakh,other,365
+2023-01-01,quechua,other,357
+2023-01-01,kiche,other,350
+2023-01-01,khmer,other,355
+2023-01-01,konkani,other,356
+2023-01-01,kyrgyz,other,359
+2023-01-01,latvian,other,381
+2023-01-01,lithuanian,other,380
+2023-01-01,luxembourgish,other,363
+2023-01-01,macedonian,other,365
+2023-01-01,malayalam,other,361
+2023-01-01,malay,other,400
+2023-01-01,maltese,other,360
+2023-01-01,maori,other,360
+2023-01-01,marathi,other,359
+2023-01-01,mongolian,other,364
+2023-01-01,nepali,other,360
+2023-01-01,odia,other,359
+2023-01-01,punjabi (gurmukhi),other,360
+2023-01-01,punjabi (shahmukhi),other,356
+2023-01-01,kinyarwanda,other,361
+2023-01-01,sinhala,other,358
+2023-01-01,sindhi,other,355
+2023-01-01,slovak,other,394
+2023-01-01,slovenian,other,369
+2023-01-01,sorani,other,354
+2023-01-01,sotho,other,360
+2023-01-01,swahili,other,362
+2023-01-01,serbian,other,387
+2023-01-01,tajik,other,361
+2023-01-01,tamil,other,361
+2023-01-01,tatar,other,361
+2023-01-01,telugu,other,357
+2023-01-01,tigrinya,other,353
+2023-01-01,tswana,other,349
+2023-01-01,turkmen,other,360
+2023-01-01,urdu,other,369
+2023-01-01,uyghur,other,360
+2023-01-01,valencian,other,349
+2023-01-01,wolof,other,349
+2023-01-01,xhosa,other,359
+2023-01-01,yoruba,other,360
+2023-01-01,zulu,other,362
+2023-01-01,cherokee,other,351
+2023-01-01,uzbek,other,364
+2023-01-01,hebrew,other,380
+2023-01-01,igbo,other,359
+2023-01-01,irish,other,366
+2023-01-01,scots,other,359
+2023-01-01,icelandic,other,368
+2024-01-01,english,anglo,94889
+2024-01-01,french,latin,22464
+2024-01-01,italian,latin,15587
+2024-01-01,german,anglo,23005
+2024-01-01,spanish - spain,latin,20905
+2024-01-01,japanese,japanese,20750
+2024-01-01,portuguese - brazil,latin,12429
+2024-01-01,russian,slavic,21471
+2024-01-01,simplified chinese,chinese,25349
+2024-01-01,traditional chinese,chinese,12730
+2024-01-01,korean,korean,13405
+2024-01-01,portuguese,latin,4173
+2024-01-01,danish,nordic,3739
+2024-01-01,polish,other,9608
+2024-01-01,turkish,turkish,7310
+2024-01-01,czech,czech,4540
+2024-01-01,hungarian,hungarian,3895
+2024-01-01,dutch,anglo,5758
+2024-01-01,ukrainian,slavic,4461
+2024-01-01,spanish - latin america,latin,6297
+2024-01-01,arabic,arabic,3930
+2024-01-01,norwegian,nordic,3661
+2024-01-01,romanian,latin,3327
+2024-01-01,swedish,nordic,4274
+2024-01-01,thai,other,3970
+2024-01-01,vietnamese,other,3193
+2024-01-01,finnish,nordic,3621
+2024-01-01,bulgarian,slavic,3062
+2024-01-01,greek,greek,3302
+2024-01-01,\r\nfrench,other,1
+2024-01-01,\r\ngerman,other,1
+2024-01-01,german;,other,2
+2024-01-01,#lang_français,other,1
+2024-01-01,russian\r\nenglish\r\nspanish - spain\r\nfrench\r\njapanese\r\nczech,other,1
+2024-01-01,english&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,french&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,italian&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,german&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,spanish - spain&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,korean&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,japanese &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;,other,3
+2024-01-01,traditional chinese (text only),other,1
+2024-01-01,englishb/b,other,4
+2024-01-01,frenchb/b,other,1
+2024-01-01,italianb/b,other,1
+2024-01-01,germanb/b,other,2
+2024-01-01,spanish - spainb/b,other,1
+2024-01-01,koreanb/b,other,1
+2024-01-01,japanese \r\n\r\nb/b,other,1
+2024-01-01,italian \r\n\r\nb/b,other,1
+2024-01-01,english (full audio),other,3
+2024-01-01,russian\r\nb/b,other,1
+2024-01-01,spanish - spain\r\nb/b,other,1
+2024-01-01,slovakian,other,2
+2024-01-01,english\r\nrussian\r\nspanish - spain\r\njapanese\r\nczech,other,1
+2024-01-01,japanese (all with full audio support),other,1
+2024-01-01,english dutch  english,other,1
+2024-01-01,portuguese - portugal,other,3797
+2024-01-01,afrikaans,other,908
+2024-01-01,amharic,other,876
+2024-01-01,albanian,other,903
+2024-01-01,assamese,other,875
+2024-01-01,azerbaijani,other,902
+2024-01-01,bangla,other,906
+2024-01-01,basque,other,917
+2024-01-01,belarusian,other,910
+2024-01-01,bosnian,other,896
+2024-01-01,dari,other,867
+2024-01-01,indonesian,other,1608
+2024-01-01,armenian,other,885
+2024-01-01,estonian,other,917
+2024-01-01,persian,other,914
+2024-01-01,filipino,other,910
+2024-01-01,welsh,other,894
+2024-01-01,galician,other,903
+2024-01-01,gujarati,other,884
+2024-01-01,georgian,other,897
+2024-01-01,hausa,other,884
+2024-01-01,hindi,other,1049
+2024-01-01,croatian,other,935
+2024-01-01,kannada,other,882
+2024-01-01,catalan,other,1002
+2024-01-01,kazakh,other,900
+2024-01-01,quechua,other,874
+2024-01-01,kiche,other,866
+2024-01-01,khmer,other,876
+2024-01-01,konkani,other,873
+2024-01-01,kyrgyz,other,881
+2024-01-01,latvian,other,924
+2024-01-01,lithuanian,other,928
+2024-01-01,luxembourgish,other,889
+2024-01-01,macedonian,other,891
+2024-01-01,malayalam,other,884
+2024-01-01,malay,other,972
+2024-01-01,maltese,other,879
+2024-01-01,maori,other,884
+2024-01-01,marathi,other,881
+2024-01-01,mongolian,other,893
+2024-01-01,nepali,other,882
+2024-01-01,odia,other,877
+2024-01-01,punjabi (gurmukhi),other,882
+2024-01-01,punjabi (shahmukhi),other,873
+2024-01-01,kinyarwanda,other,881
+2024-01-01,sinhala,other,882
+2024-01-01,sindhi,other,877
+2024-01-01,slovak,other,961
+2024-01-01,slovenian,other,903
+2024-01-01,sorani,other,871
+2024-01-01,sotho,other,881
+2024-01-01,swahili,other,891
+2024-01-01,serbian,other,938
+2024-01-01,tajik,other,883
+2024-01-01,tamil,other,887
+2024-01-01,tatar,other,881
+2024-01-01,telugu,other,881
+2024-01-01,tigrinya,other,869
+2024-01-01,tswana,other,865
+2024-01-01,turkmen,other,880
+2024-01-01,urdu,other,898
+2024-01-01,uyghur,other,878
+2024-01-01,valencian,other,865
+2024-01-01,wolof,other,865
+2024-01-01,xhosa,other,884
+2024-01-01,yoruba,other,884
+2024-01-01,zulu,other,888
+2024-01-01,cherokee,other,867
+2024-01-01,uzbek,other,897
+2024-01-01,hebrew,other,930
+2024-01-01,igbo,other,885
+2024-01-01,irish,other,894
+2024-01-01,scots,other,883
+2024-01-01,icelandic,other,906
